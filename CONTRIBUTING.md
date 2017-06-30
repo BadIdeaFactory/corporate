@@ -24,6 +24,10 @@ being merged.
 PRs with meaningful changes will require a 50% or more vote from voting
 partners.
 
+NOTE: The only exception to the PR flow are positive contributions to
+`/poems`.  A positive change to `/poems` means the creation of new
+poems or fixed typos.
+
 ### Branching and Branch Names
 
 We do all development on lightweight branches, with each branch
