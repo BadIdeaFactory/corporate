@@ -23,6 +23,8 @@ SECTION 2: Background
 SECTION 3: Repository Organization
 ---------------------------------------------------------------------
 
+- `/poems` is where partners write beat poetry about one another.
+
 ---------------------------------------------------------------------
 SECTION 4: Participating in BIFFUD
 ---------------------------------------------------------------------
