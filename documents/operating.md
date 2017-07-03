@@ -30,20 +30,21 @@ cloud, the ownership of the remaining corporate overlords will then be evenly
 distributed (e.g. if four overlords remain, each will own 25% of BIFFUD)
 
 ### Lawsuits between BIFFUD associates
-All BIFFUD associates involved in a lawsuit mustplay a group game of
+All BIFFUD associates involved in a lawsuit must play a group game of
 Mario Party 3 before any arbitration happens.  BIFFUD will loan any
 necessary hardware needed to make this possible.
 
 ### Additional notes
-It is worth explicitly stating that as owners of this corporation, we
-will work tirelessly to avoid any of the following:
+It is worth explicitly stating that the Corporate Overlords will work
+tirelessly to avoid any of the following:
 
 - Giving up on our stakeholders
 - Letting anybody down who we have made a commitment to
 - Disappearing / "running around" for long periods of time without communicating
 - Deserting one another as members without formally abdicating our stake.
 
-Furthermore, we will try not to
+Furthermore, they will try not to:
+
 - Make anybody cry
 - Close the company and say "goodbye", so long as there someone is out there
 willing to carry the torch forward.
@@ -59,20 +60,18 @@ SECTION 2: 🤝🤝🤝 Partnership 🤝🤝🤝
 - [x] Removing partners
 
 ### Types of Involvement
-
 1. **Corporate Overlord:** Corporate Overlords of BIFFUD own part of the company.
 They have votes during plotting sessions and can review pull requests to `/corporate`.
 
 2. **Members:** members can have ownership over BIFFUD projects. All Corporate Overlords
 are also members.  Members are entitled to attend BIFFUD meetings.
 
-3. **Minons:** minions are contributing participants in BIFFUD projects. They
+3. **Minions:** minions are contributing participants in BIFFUD projects. They
 might contribute via code, cash, or expertise.  They are entitled to attend BIFFUD
 meetings.
 
 
 ### Corporate Overlord Responsibilities
-
 Bad Idea Factory is a Limited Liability Corporation, which means that
 partnership can't ~just~ be about the spirit or the lulz -- partners
 have legal responsibilities, ownership, and control over the company
@@ -131,10 +130,9 @@ the company is redistributed so that each overlord owns an equal share.
 
 
 ### Removing Corporate Overlords
-
 A Corporate Overlord can recuse itself from BIFFUD at any time by dying, uploading
 its consciousness to the cloud, or submitting a letter of resignation to both
-the President of BIFFUD and the President the United States.
+the President of BIFFUD and the President of the United States.
 
 Corporate Overlords can also vote to remove a peer from the organization if
 any of the following conditions apply:
@@ -145,7 +143,7 @@ in a given year without a note from a family member explaining its absence.
 - The Corporate Overlord is hated or despised.
 
 The removal of a corporate overlord can be nominated during a plotting session
-and requires 70% approval or more from the attending Corporate Overlords.
+and requires 70% approval or more from the other Corporate Overlords.
 
 Overlords are entitled to a pro-rated profit share for their tenure in a given
 year, as well as ongoing profit-share according to their ownership of various
@@ -154,13 +152,12 @@ BIFFUD projects.
 ---------------------------------------------------------------------
 SECTION 3: 🤔🤔🤔 Projects 🤔🤔🤔
 ---------------------------------------------------------------------
-- [ ] Types of project
-- [ ] Evaluating ideas
-- [ ] IP (Intellectual Property / Internet Protocol)
-- [ ] Open source
+- [x] Types of project
+- [x] Evaluating ideas
+- [x] IP (Intellectual Property / Internet Protocol)
+- [x] Open source
 
 ### Types of Project
-
 A. **Grant Funded:** projects funded by grants from third parties are executed
 by the BIFFUD member who has led the relationship with the funders, or by an
 alternative BIFFUD member as delegated by that applicant.  Money associated with
@@ -175,6 +172,43 @@ C. **BIFFUD Core:** projects that are taken on by the entire corporation.  These
 might be projects utilized by the Corporate Overlords to execute on company policy,
 or simply be projects that the Corporate Overlords decide to develop without a concept
 of individual ownership.
+
+
+### Evaluating Ideas
+Anybody can build anything they want at any time, but in order for something to become
+an official BIFFUD project it must be formally adopted by the Corporate Overlords during
+a plotting session.  The determination of what makes a project a BIFFUD project is
+ultimately determined by that process, but in the spirit of framing the conversation,
+the following questions are recommended.
+
+1. How is this project a bad idea?
+2. Does it make you thinking face emoji?
+3. Is it realistic to implement through BIFFUD?
+4. If the project were a character in Dungeons and Dragons, what would it's alignment be?
+
+The BIFFUD brand deserves compelling answers to questions 1 and 2. Projects should be
+realistic to implement, and should either be "Chaotic Good", "Neutral Good", or
+"Chaotic Neutral".  All of these data points simply serve as guidance. The ultimate
+decision of what projects should be adopted falls on the Corporate Overlords.
+
+
+### Intellectial Property / Internet Protocol
+The following numbered clauses apply to all BIFFUD projects unless explicitly approved
+otherwise by the Corporate Overlords during project approval or at a later date during
+a plotting session.
+
+1. Everything contributed to a BIFFUD project must be developed in the open and licensed under
+Apache 2.0.
+
+2. All BIFFUD projects must have the language written in `documents/contributing_addition.md`
+inserted into a CONTRIBUTING.md file at the root level of the project unless explicitly
+approved otherwise by the Corporate Overlords during project approval or at a later date
+during a plotting session.
+
+3. Copyright for all potential code or other creative works with a BIFFUD project must be
+granted to BIFFUD before it can be incorporated into a project, unless the Beastmaster gives
+their approval.
+
 
 ---------------------------------------------------------------------
 SECTION 4: 💵💵💵 MONEY 💵💵💵
