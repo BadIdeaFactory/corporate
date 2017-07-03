@@ -14,7 +14,7 @@ Contents:
 SECTION 1: Introduction and Current Status
 ---------------------------------------------------------------------
 
-This is the public documentation of Bad Idea Facotry Limited Liability
+This is the public documentation of Bad Idea Factory Limited Liability
 Corporation, an entity registered in Pennsylvania.
 
 ---------------------------------------------------------------------
