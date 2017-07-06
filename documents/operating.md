@@ -18,7 +18,7 @@ SECTION 0: 📓📓📓 Definitions 📓📓📓
 * **Bad Idea Factory Limited Liability Company ("the Company")** is a Limited Liability Company domiciled in Pennsylvania.
 * The Company may also be referred to as "**Bad Idea Factory**" or "**BIFFUD**".
 * "**Corporate Overlord**" shall mean an "owner" of the Company under Pennsylvania state law.
-* The "**Board of Directors**" ("the **Board**") of the Company, as defined by Pennsylvania state law, shall consist of all current Corporate Overlords of the Company.
+* The "**Hive Mind**" ("the **Hive**") shall mean the "board of directors" of the Company, as defined by Pennsylvania state law. The Hive Mind shall consist of all current Corporate Overlords of the Company.
 * "**Consensus**" shall mean TKTKTK.
 * "**Quorum**" shall mean TKTK
 
