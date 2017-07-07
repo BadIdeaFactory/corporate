@@ -27,26 +27,26 @@ Corporate Overlords are straight white cis men.
 
 ### Continuance of Company
 If a Corporate Overlord leaves BIFFUD, dies, or uploads their brain to the
-cloud, the ownership of the remaining corporate overlords will then be evenly
-distributed (e.g. if four overlords remain, each will own 25% of BIFFUD)
+cloud, the ownership of the remaining Corporate Overlords will then be evenly
+distributed (e.g. if four Corporate Overlords remain, each will own 25% of BIFFUD).
 
-### Lawsuits between BIFFUD associates
+### Lawsuits Between BIFFUD Associates
 All BIFFUD associates involved in a lawsuit must play a group game of
 Mario Party 3 before any arbitration happens.  BIFFUD will loan any
 necessary hardware needed to make this possible.
 
-### Additional notes
+### Additional Notes
 It is worth explicitly stating that the Corporate Overlords will work
 tirelessly to avoid any of the following:
 
-- Giving up on our stakeholders
-- Letting anybody down who we have made a commitment to
-- Disappearing / "running around" for long periods of time without communicating
-- Deserting one another as members without formally abdicating our stake.
+- Giving up on their stakeholders.
+- Letting anybody down to whom they have made a commitment.
+- Disappearing / "running around" for long periods of time without communicating.
+- Deserting one another as members without formally abdicating their stake.
 
 Furthermore, they will try not to:
 
-- Make anybody cry
+- Make anybody cry.
 - Close the company and say "goodbye", so long as there someone is out there
 willing to carry the torch forward.
 
