@@ -3,12 +3,25 @@ Bad Idea Factory Limited Liability Corporation
 
 Contents:
 
+0.  Definitions
 1.  Official Operating Agreement
 2.  Partnership
 3.  Projects
 4.  Money
 5.  Governing Process
 6.  Policies
+
+---------------------------------------------------------------------
+SECTION 0: 📓📓📓 Definitions 📓📓📓
+---------------------------------------------------------------------
+
+* **Bad Idea Factory Limited Liability Company ("the Company")** is a Limited Liability Company domiciled in Pennsylvania.
+* The Company may also be referred to as "**Bad Idea Factory**" or "**BIFFUD**".
+* "**Corporate Overlord**" shall mean an "owner" of the Company under Pennsylvania state law.
+* The "**Hive Mind**" shall mean the "board of directors" of the Company, as defined by Pennsylvania state law. The Hive Mind shall consist of all current Corporate Overlords of the Company.
+* "**Plotting Session**" shall mean a meeting of the "board of directors" of the Company, as defined by Pennsylvania state law.
+* "**Consensus**" shall mean TKTKTK.
+* "**Quorum**" shall mean TKTK
 
 ---------------------------------------------------------------------
 SECTION 1: 📚📚📚 Official Operating Agreement 📚📚📚
