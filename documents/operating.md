@@ -72,34 +72,11 @@ are to be held during the month of April.
 
 
 ### Deliberation Processes
-#### Slack
-Slack is a real time communication platform which supports threaded
-conversation and emoji reactions to specific posts.  Decisions made
-over Slack are intended to be short term decisions that do not require
-intense deliberation or buy-in from the majority of the Hive Mind.
-
-These votes will be taken in the `#biffud-vote` Slack channel.
-
-1. A message is posted to `#biffud-vote`, posing a single question to be
-voted on.
-
-2. Discussion happens in a threaded response to the question.
-
-3. Voting is performed using emoji in response to a single pinned message
-that poses the entire content up for vote. Positive Emoji are used for a yes
-vote, Negative Emoji are used for a no vote, and Ambiguous Emoji are used
-for an abstention.
-
-4. The results of a vote are tallied and reported back inside of the thread
-in addition to being catalogued in `/votes/slack` as described later in this
-document.
-
-
 #### Plotting Session
 Plotting Sessions are agenda driven and require a Quorum.  They
 are led by the chair (as determined by the chain of command).
 
-The Hive Mind will use Robert's Rules of Order to run Plotting Pessions
+The Hive Mind will use Robert's Rules of Order to run Plotting Sessions
 in an orderly and Robertly fashion.
 
 When possible, video should be enabled for any plotting session.  Votes should be
@@ -243,9 +220,6 @@ organization of the corporate GitHub repository.
 submitted by the Secretary of Lore using the processes and standards defined in
 CONTRIBUTING.md.
 
-- **Posting to official social media channels:** Slack (needs Apathetic
-Support).
-
 Here's a summary table:
 
 | Decision          | Vote               | Deliberation |
@@ -268,7 +242,6 @@ Here's a summary table:
 | ~ contributing.md | Majority           | GitHub       |
 | ~ corporate       | Majority           | GitHub       |
 | + minutes         | Apathetic Support  | GitHub       |
-| + social          | Apathetic Support  | Slack        |
 
 
 ### Elections
