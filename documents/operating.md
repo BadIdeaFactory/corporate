@@ -60,17 +60,30 @@ SECTION 5: 🗣🗣🗣 Governing Process 🗣🗣🗣
   - [x] ... Plotting Sessions
 - [x] Use of emoji
 
+### Schedules and Expectations
+All meaningful organizational decisions will happen in monthly Plotting
+Sessions, which are to be scheduled and announced by the Overmind on
+April 1st of every year.  The schedule can be updated as needed, but
+a notice of 10 days must be given before any Plotting Session can be
+held.
+
+April 1st marks the beginning of the governing year, and officer elections
+are to be held during the month of April.
+
+
 ### Deliberation Processes
-
 #### Slack
-Decisions made over slack are intended to be short term decisions that
-do not require intense deliberation or buy-in from the majority of the
-Hive Mind.
+Slack is a real time communication platform which supports threaded
+conversation and emoji reactions to specific posts.  Decisions made
+over Slack are intended to be short term decisions that do not require
+intense deliberation or buy-in from the majority of the Hive Mind.
 
-1. A single pinned message is created, posing the entire question up
-for vote.
+These votes will be taken in the `#biffud-vote` Slack channel.
 
-2. Discussion happens entirely in a threaded response to the question.
+1. A message is posted to `#biffud-vote`, posing a single question to be
+voted on.
+
+2. Discussion happens in a threaded response to the question.
 
 3. Voting is performed using emoji in response to a single pinned message
 that poses the entire content up for vote. Positive Emoji are used for a yes
@@ -83,171 +96,206 @@ document.
 
 
 #### Plotting Session
-Plotting sessions are agenda driven and require a Quorum to occur.  They
+Plotting Sessions are agenda driven and require a Quorum.  They
 are led by the chair (as determined by the chain of command).
 
-The Hive Mind will use Robert's Rules of Order to run plotting sessions
+The Hive Mind will use Robert's Rules of Order to run Plotting Pessions
 in an orderly and Robertly fashion.
 
-If the plotting session is held virtually, video should be enabled for all
-attendants where bandwidth allows.
+When possible, video should be enabled for any plotting session.  Votes should be
+cast using physical emoji 👍, 👎, and 😐 (or any skin tone variation) depicted
+on signs attached to sticks and held up to indicate votes of yes, no, and abstain
+respectively.  Members can also vote by raising their hands, but this will
+be considered lame.
 
-If the virtual platform enables costumes or static overlays on top of avatars,
-the meeting chairperson is to select an overlay to represent the Greek Chorus.
-This overlay should be selected to maximally hide the faces of the Greek Chorus.
-
-Each Corporate Overlord must wear overlays depicting wealth.  For example this
-could be a monacle, crown, or in the distant future a laser that fires precious
-gems.
-
-If the virtual platform enables emoji or other forms of visual flair, votes are
-to be calcualted using the platform's equivalent of a thumbs up or thumbs down
-emoji. If directly equivalent emoji reactions do not exist on the platform, the
-meeting chair may select alternative emoji to represent positive and negative votes.
-
-If there is no support for emoji or appropriate effects the Corporate Overlords must
-instead fabricate physical emoji on sticks for both positive and negative votes.  If an
-overlord is unable to fabricate an emoji, they must draw a shaded thumbs up and a
-thumbs down on their hand using a marker or pen.  If they don't have hands or a means
-to draw, they can work with the meeting chair to determine an appropriate alternative.
-
-A verbal vote may only be taken if the above methods are not reasonably possible to
-follow in a meeting.
+A role call vote can take place instead if the Secretary of Lore or the meeting
+chair deems it necessary in order to properly tally a vote.
 
 
 #### GitHub
-Decisions made purely on GitHub are generally intended to either be interim
-decisions that require a Plotting Session to finalize, or decisions related
-to the organization, documentation, or beurocracy of `/corporate`.
+Decisions made on GitHub are either interim decisions that must
+culminate in a Plotting Session to finalize, or they are decisions
+related to BIFFUD's GitHub process and documentation policy.
 
-Regardless of whether or not a decision can be finalized in GitHub, the method
-of deliberation is the same.
+Almost all decisions involve GitHub at some level.
 
-1. A branch (Corporate Overlord) or fork (Member) is created from `corporate`
-against `master` or an appropriate sub-branch.
+The method of deliberation is similar in both cases:
 
-2. The appropriate template file is used in the appropriate subdirectory to
-create the relevant request or proposed addition.
+1. The person requesting a vote should review the instructions set
+forth in `CONTRIBUTING.md` based on the type of vote being requested.
 
-3. A Pull Request is made against the relevant branch, with commit comments
-written using the standards described in `CONTRIBUTING.md`
+2. A Pull Request must be made against the `master` branch of the
+BIFFUD corporate repository.
 
-4. Corporate Overlords are automatically asked to review the Pull Request.
+3. The Keeper of Code reviews the Pull Request and requests any changes
+around standards violations or mistakes.
 
-5. Corporate Overlords vote using GitHub's review feature.  Approval is a yes
-vote, Rejection is a no vote, and Comments are used to request more information
-or changes.  Active abstention should be communicated via a comment review.
+4. Once the Pull Request is deemed valid, the Keeper of Code requests
+a review from all Corporate Overlords.
 
-6. If a plotting session is not required, a vote is considered passed if there
-are enough approval votes as determined by this document based on the decision
-type.  At this point the passage should be noted by the Overmind or the Secretary
-of Lore and the relevant action based on the decision can be undertaken.
+4. Corporate Overlords vote using GitHub's review feature.  Approval
+is a yes vote, Rejection is a no vote, and Comments are used to request
+more information or changes.
 
-7. If a plotting session is required, the votes are simply an indication of favor
-and depending on the decision type may indicate temporary approval.
+5. Requests that require a Plotting Session are left open until a final
+vote is taken during a plotting session.  The Secretary of Lore updates
+the Pull Request with a record of the vote outcome from the Plotting
+Session.
 
-A vote can be changed at any time until the decision has been determined to be final.
+6. Requests that do not require a Plotting Session are left open until
+they pass or fail.  Votes that do not require a Plotting Session
+automatically fail if they have been open for over a month.
 
-Votes during plotting sessions override votes shown on Pull Requests, even if the same
-Corporate Overlord voted differently in both places.
+If a vote is considered preliminary, although actions may be triggered
+by initial indications of passage, the vote is not final until after a
+Plotting Session has been held.
 
+If a vote is final and passes, the Pull Request is merged by the Keeper
+of Code and the branch is deleted.
 
-#### GitHub -> Plotting Session
-Some decisions are explored on GitHub but ultimately culminate in a live vote during
-a Plotting Session.  The process is the same as described in GitHub, but votes for
-open tickets are either scheduled into plotting sessions in advance or raised via
-a motion during the New Business portion of an agenda.
+If a vote is final and fails, the Pull Request is closed without merge
+by the Keeper of Code and the branch is deleted.
 
 
 ### Voting Decisions
 The following decisions will require a formal input from the Hive Mind.
 
+The GitHub processes for each decision are outlined in CONTRIBUTING.md
+and those processes must be followed.
 
-- **Adding projects:** GitHub -> Plotting Session, 30% vote for preliminary approval,
-70% vote for final approval.  Applications are submitted to `/projects` using the
-`/documents/project.md` template.  A project representative should attempt to attend
-the relevant Plotting Session to answer questions.
+- **Adding projects (Preliminary):** GitHub (needs Apathetic Support).
+This type of request is made by anybody who wants to submit their
+project or idea to BIFFUD for approval to become an official BIFFUD
+project. Upon preliminary approval the code base is incorporated into
+the BIFFUD repository and the project owners are given a biffud.com
+subdomain.
 
-- **Updating projects:** GitHub -> Plotting Session, 30% vote for preliminary approval,
-70% vote for final approval.  The relevant project file should be updated via Pull Request
-in `/projects`.
+- **Adding projects:** Plotting Session (needs Strong Consensus). If
+the vote passes, the steps outlined in the preliminary vote description
+are invoked.  The listed owners of the project are made members of
+BIFFUD and onboarded by the Beastmaster.  The project budget is given
+to the Treasure Goblin for categorization.  The Beastmaster also now
+has permission to give access to any approved resources as required by
+the project.
 
-- **Removing projects:** GitHub -> Plotting Session, 30% vote for preliminary approval,
-70% vote for final approval.  Removing a project from BIFFUD involves a Pull Request to place
-its `.md` into `/projects/archive` and to update the file appropriately.
+- **Updating projects (Preliminary):** GitHub (needs Apathetic Support).
+This type of request is made by members with an existing project who
+want to update their project's application file after it has been
+approved.
 
-- **Adding Corporate Overlords:** Plotting Session, 70% vote.
-- **Removing Corporate Overlords:** Plotting Session, 70% vote.
-- **Changing section 1 of `operating.md` OR changing this bullet:** GitHub -> Plotting Session, 100% vote.
-- **Changing any other section of `operating.md`:** GitHub -> Plotting Session, 70% vote.
-- **Approving expenses:** GitHub -> Plotting Session, 50% preliminary approval, 70% final approval.
-Applications are submitted to `/expenses` using the `/documents/expense.md` template.
-- **Canceling tax reimbursement:** Plotting Session, 70% vote.
-- **Creating one-time capital contributions from the Hive Mind:** Plotting Session, 100% vote.
-- **Creating one-time capital dispersements to the Hive Mind:** Plotting Session, 70% vote.
-- **Electing Corporate Overlords to named positions:** GitHub -> Plotting Session, 10% preliminary,
-Democratic Vote. Election applications are submitted to `/elections` using the `/documents/election.md`
-template. If a candidate gets 10% approval their application is merged.  Candidates must be locked in
-a full day before the election is held.
-- **Making modifications to `CONTRIBUTING.md`:** GitHub -> Plotting Session, 50% vote.
-- **Making modifications to `/corporate`:** GitHub, vote requirements
-based on change type, determined by `CONTRIBUTING.md`.
-- **Approving minutes:** GitHub, 50% vote. Pull Request made to `/meetings` using
-the `documents/meeting.md` template.
-- **Posting to official social media channels with `- HM` or `- CO`: Slack, 30%
+- **Updating projects:** GitHub (no $$, needs Beastmaster Approval) or
+Plotting Session (needs Strong Consensus).  Note: any change that will
+require additional BIFFUD resources cannot be approved by the
+Beastmaster; it requires Strong Consensus during a Plotting Session.
+
+- **Removing projects:** Plotting Session (needs Strong Consensus).
+If a project has been voted for removal from BIFFUD, the project must
+be removed from BIFFUD servers and team repository.  The transfer plan
+and timeline should be specified as part of the vote.  If it is not,
+assume that the timeline is a month and the intent is to transfer
+related code and data to project owners.
+
+- **Adding Corporate Overlords:** Plotting Session (needs Strong
+Consensus).
+
+- **Removing Corporate Overlords:** Plotting Session (needs Strong
+Consensus).
+
+- **Changing section 0 or 1 of `operating.md`:** Plotting Session (needs
+Complete Consensus). Note: this is as specified in Section 1 and repeated
+here for convenience.
+
+- **Changing other sections of `operating.md`:** Plotting Session (needs
+Strong Consensus).
+
+- **Approving expenses (Preliminary):** GitHub (needs Majority).
+Preliminary approval of expenses above $100 will allow the Treasure
+Goblin to release preliminarily approved funds at their discression
+within the bounds of the approved expense timeline.
+
+- **Approving expenses:** Plotting Session (needs Strong Consensus).
+Upon approval the Treasure Goblin must release approved funds within
+the bounds of the approved expense timeline.
+
+- **Canceling tax reimbursement:** Plotting Session (needs Strong
+Consensus).  This vote indicates that the tax reimbursement to
+Corporate Overlords for company profits will not be distributed
+for the current fiscal year.
+
+- **Soliciting one-time capital contributions:** Plotting Session
+(needs Complete Consensus).  This vote indicates that the Corporate
+Overlords will be required to make an additional capital contribution
+in order to remain Corporate Overlords.
+
+- **Creating one-time capital dispersements:** Plotting Session (needs
+Strong Consensus).  This vote idicates that BIFFUD will disperse capital
+to Corporate Overlords in proportion to their ownership levels.
+
+- **Making modifications to `CONTRIBUTING.md`:** GitHub (needs Apathetic
+Support).  This vote approves changes to the processes associated with
+the votes as described in CONTRIBUTING.md
+
+- **Making other modifications to `/corporate`:** GitHub (needs
+Apathetic Support).  This vote approves changes to the structure or
+organization of the corporate GitHub repository.
+
+- **Approving minutes:** GitHub (needs Apathetic Support).  Minutes are
+submitted by the Secretary of Lore using the processes and standards defined in
+CONTRIBUTING.md.
+
+- **Posting to official social media channels:** Slack (needs Apathetic
+Support).
 
 Here's a summary table:
 
-| Decision          | Vote      | Deliberation |
-| ----------------- | :-------: | ------------ |
-| + project         | 30% / 70% | GH -> Pl Ssn |
-| ~ project         | 30% / 70% | GH -> Pl Ssn |
-| - project         | 30% / 70% | GH -> Pl Ssn |
-| + overlord        | 70%       | Plotting Ssn |
-| - overlord        | 70%       | Plotting Ssn |
-| ~ section 1       | 100%      | GH -> Pl Ssn |
-| ~ section X       | 70%       | GH -> Pl Ssn |
-| + expenses        | 50% / 70% | GH -> Pl Ssn |
-| - taxes           | 70%       | Plotting Ssn |
-| + capital         | 100%      | Plotting Ssn |
-| + dispersement    | 70%       | Plotting Ssn |
-| -> position       | 50%       | Plotting Ssn |
-| ~ contributing.md | 50%       | GH -> Pl Ssn |
-| ~ /corporate      | !!!       | GitHub       |
-| + minutes         | 50%       | GitHub       |
-| + social          | 30%       | Slack        |
+| Decision          | Vote               | Deliberation |
+| ----------------- | :----------------: | ------------ |
+| + project (plm.)  | Apathetic Support  | GitHub       |
+| + project         | Strong Consensus   | Plotting Ssn |
+| ~ project (plm.)  | Apathetic Support  | GitHub       |
+| ~ project (no $)  | BeastMaster        | GitHub       |
+| ~ project         | Strong Consensus   | Plotting Ssn |
+| - project         | Strong Consensus   | Plotting Ssn |
+| + overlord        | Strong Consensus   | Plotting Ssn |
+| - overlord        | Strong Consensus   | Plotting Ssn |
+| ~ section 0,1     | Complete Consensus | Plotting Ssn |
+| ~ section X       | Strong Consensus   | Plotting Ssn |
+| + expenses (plm.) | Majority           | GitHub       |
+| + expenses        | Strong Consensus   | Plotting Ssn |
+| - taxes           | Strong Consensus   | Plotting Ssn |
+| + capital         | Complete Consensus | Plotting Ssn |
+| + dispersement    | Strong Consensus   | Plotting Ssn |
+| ~ contributing.md | Majority           | GitHub       |
+| ~ corporate       | Majority           | GitHub       |
+| + minutes         | Apathetic Support  | GitHub       |
+| + social          | Apathetic Support  | Slack        |
 
 
-### Delegated Decisions
+### Elections
+Elections are held during the first Plotting Session after April 1st.
+Candidates must submit their application for a position 24h before the
+Plotting Session is scheduled to begin, using the process outlined
+in CONTRIBUTING.md.
 
-This has to be fleshed out, but basically what kinds of things can elected
-titles do.  For instance...
-
-- Beastmaster can decide if a preliminary approval
-of a project should translate into full blown onboarding.
-
-- Secretary of Lore can potentially reject a Pull Request that does not meet
-commit message standards even if it is otherwise approved.  (Note that the
-President can override that rejection, you know, to prevent any funny
-business.)
+Whoever receives the most votes wins.  In the event of a tie, a second
+vote is held with only the candidates who tied.  If this also results
+in a tie then whoever can score highest in QWOP wins. If this also
+results in a tie, then idk flip a coin or something goddamn.
 
 ### Records and Documentation
+Deliberation on GitHub is naturally captured.  Minutes should be taken during
+Plotting Sessions, and it is the responsibility of the Secretary of Lore or a
+temporary appointee to take notes that reflect attendance, decisions, meaningful
+discussion, and vote counts.
 
-Deliberation should always be performed using the guidelines dictated by
-the associated deliberation process.  Minutes should be taken during Plotting
-Sessions, and it is the responsibility of the Secretary of Lore to take notes
-to reflect attendance, decisions made, meaningful discussion, and vote counts.
+Decisions made on Slack should be properly memorialized as described in
+CONTRIBUTING.md
 
-Decisions made on Slack should be properly memorialized as described in the
-deliberation process.
-
-These minutes make up the corporate records.  Documentation structure and
-organization should be performed as outlined in `CONTRIBUTING.md`. Furthermore,
-every commit message in `corporate` should be written using the standards and
-guidelines outlined in `CONTRIBUTING.md`.
-
-The Secretary of Lore is responsible for overseeing commits and being a stickler
-for quality.
+The contents of the corporate github make up the corporate records.
+Documentation structure and organization should be performed as outlined
+in CONTRIBUTING.md.  The Secretary of Code is responsible for ensuring
+that the Secretary of Lore is adhering to the guidelines laid out in
+CONTRIBUTING.md.
 
 ---------------------------------------------------------------------
 SECTION 6: 📜📜📜 Policies 📜📜📜
