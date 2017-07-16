@@ -22,9 +22,9 @@ SECTION 0: 📓📓📓 Definitions 📓📓📓
 * The "**Hive Mind**" shall mean the "board of directors" of the Company, as defined by Pennsylvania state law. The Hive Mind shall consist of all current Corporate Overlords of the Company.
 * "**Plotting Session**" shall mean a meeting of the "board of directors" of the Company, as defined by Pennsylvania state law.
 * "**Quorum**" shall mean the presence of 2/3 or more of the company's Corporate Overlords.
-* "Operating Agreement" shall refer to the official version of this document
+* "**Operating Agreement**" shall refer to the official version of this document
 to be held in a file named `operating.md` in the `documents` directory of the
-`corporate` repository within the `BadIdeaFactory` team hosted on GitHub.
+`master` branch of the `corporate` repository within the `BadIdeaFactory` team hosted on GitHub. (As of July 2017, the described version of the file may be located at: https://github.com/BadIdeaFactory/corporate/blob/master/documents/operating.md )
 
 ### Support Categories
 * "**Complete Consensus**" shall mean 100% support or more.
