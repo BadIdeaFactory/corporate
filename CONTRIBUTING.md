@@ -95,6 +95,17 @@ Please use spaces, never tabs.  The file [.editorconfig](.editorconfig)
 encodes these formatting conventions in a way that most text editors
 can read.
 
+### File Naming Scheme
+
+When filenames consist of multiple words, use alternating underscores
+and hyphens, e.g. `code_of-conduct.md`.
+
+How do you know which to start with? It's simple. If the file name begins
+with a vowel, begin with the hyphen, otherwise, begin with the underscore.
+
+If the filename begins with a number or non-alphabetic character, all
+hyphens must be replaced with en dashes.
+
 ### Licensing Your Contribution
 The corporate is published under the
 [MIT License](http://www.apache.org/licenses/).  It is important that
