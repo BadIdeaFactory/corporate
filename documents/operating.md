@@ -91,7 +91,7 @@ profit.
 
 The code base associated with a retired project should be kept in the BIFFUD repository.
 
-Services that are incur continuing costs to BIFFUD that are solely associated with retired
+Services that incur continuing costs to BIFFUD and are solely associated with retired
 projects should be ended by members of The Hive Mind as quickly as corporately possible.
 
 ### Evaluating Ideas
