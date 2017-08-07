@@ -67,8 +67,11 @@ April 1st of every year.  The schedule can be updated as needed, but
 a notice of 10 days must be given before any Plotting Session can be
 held.
 
-April 1st marks the beginning of the governing year, and officer elections
-are to be held during the month of April.
+Notices of meetings are to be communicated via email notification and
+published on GitHub `corporate` in CALENDAR.md
+
+April 1st marks the beginning of the Governing Year, and officer elections
+must be held during the month of April.
 
 
 ### Deliberation Processes
@@ -96,18 +99,16 @@ related to BIFFUD's GitHub process and documentation policy.
 
 Almost all decisions involve GitHub at some level.
 
-The method of deliberation is similar in both cases:
-
 1. The person requesting a vote should review the instructions set
 forth in `CONTRIBUTING.md` based on the type of vote being requested.
 
 2. A Pull Request must be made against the `master` branch of the
 BIFFUD corporate repository.
 
-3. The Keeper of Code reviews the Pull Request and requests any changes
-around standards violations or mistakes.
+3. The Secretary of Code reviews the Pull Request and requests any changes
+related to standards violations or mistakes.
 
-4. Once the Pull Request is deemed valid, the Keeper of Code requests
+4. Once the Pull Request is deemed valid, the Secretary of Code requests
 a review from all Corporate Overlords.
 
 4. Corporate Overlords vote using GitHub's review feature.  Approval
@@ -131,7 +132,7 @@ If a vote is final and passes, the Pull Request is merged by the Keeper
 of Code and the branch is deleted.
 
 If a vote is final and fails, the Pull Request is closed without merge
-by the Keeper of Code and the branch is deleted.
+by the Secretary of Code and the branch is deleted.
 
 
 ### Voting Decisions
@@ -160,17 +161,17 @@ This type of request is made by members with an existing project who
 want to update their project's application file after it has been
 approved.
 
-- **Updating projects:** GitHub (no $$, needs Beastmaster Approval) or
-Plotting Session (needs Strong Consensus).  Note: any change that will
-require additional BIFFUD resources cannot be approved by the
+- **Updating projects:** GitHub (with no money changes; needs Beastmaster
+Approval) or Plotting Session (needs Strong Consensus).  Any change
+that will require additional BIFFUD resources cannot be approved by the
 Beastmaster; it requires Strong Consensus during a Plotting Session.
 
 - **Removing projects:** Plotting Session (needs Strong Consensus).
 If a project has been voted for removal from BIFFUD, the project must
 be removed from BIFFUD servers and team repository.  The transfer plan
 and timeline should be specified as part of the vote.  If it is not,
-assume that the timeline is a month and the intent is to transfer
-related code and data to project owners.
+the timeline is a month and the intent is to transfer related code and
+data to project owners.
 
 - **Adding Corporate Overlords:** Plotting Session (needs Strong
 Consensus).
@@ -246,23 +247,19 @@ Here's a summary table:
 
 ### Elections
 Elections are held during the first Plotting Session after April 1st.
-Candidates must submit their application for a position 24h before the
-Plotting Session is scheduled to begin, using the process outlined
+Candidates must submit their application for a position 24 hours before
+the Plotting Session is scheduled to begin, using the process outlined
 in CONTRIBUTING.md.
 
-Whoever receives the most votes wins.  In the event of a tie, a second
-vote is held with only the candidates who tied.  If this also results
-in a tie then whoever can score highest in QWOP wins. If this also
+Votes will be held using the condorcet voting method.  In the event of
+a tie, then whoever can score highest in QWOP wins. If this also
 results in a tie, then idk flip a coin or something goddamn.
 
 ### Records and Documentation
-Deliberation on GitHub is naturally captured.  Minutes should be taken during
+The `corporate` GitHub repository is our official record.  Minutes should be taken during
 Plotting Sessions, and it is the responsibility of the Secretary of Lore or a
 temporary appointee to take notes that reflect attendance, decisions, meaningful
 discussion, and vote counts.
-
-Decisions made on Slack should be properly memorialized as described in
-CONTRIBUTING.md
 
 The contents of the corporate github make up the corporate records.
 Documentation structure and organization should be performed as outlined
