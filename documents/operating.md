@@ -75,8 +75,9 @@ into the project.
 
 ### Disputes Between Project Owners
 If project owners disagree, the Beastmaster is responsible for addressing the
-disagreement.  If the beastmaster fails to create harmony, the Undermind, Overmind, and
-Bestmaster make the final determination.
+disagreement.  If the beastmaster fails to create harmony, the Beastmaster proposes a
+solution and if either the Undermind or Overmind approve it, the Owners in conflict can
+either accept that solution or mutually agree on an alternative.
 
 ### Retiring a BIFFUD Project
 All BIFFUD projects, regardless of how they are resourced and supported,
