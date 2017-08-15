@@ -22,6 +22,7 @@ SECTION 0: 📓📓📓 Definitions 📓📓📓
 * The "**Hive Mind**" shall mean the "board of directors" of the Company, as defined by Pennsylvania state law. The Hive Mind shall consist of all current Corporate Overlords of the Company.
 * "**Plotting Session**" shall mean a meeting of the "board of directors" of the Company, as defined by Pennsylvania state law.
 * "**Quorum**" shall mean the presence of 2/3 or more of the company's Corporate Overlords.
+* "**Chain of Command**" shall refer to the following order: Overlord, Underlord, Keeper of Lore, Treasure Goblin, Beastmaster, The Popular One, Secretary of Code.
 * "**Operating Agreement**" shall refer to the official version of this document
 to be held in a file named `operating.md` in the `documents` directory of the
 `master` branch of the `corporate` repository within the `BadIdeaFactory` team hosted on GitHub. (As of July 2017, the described version of the file may be located at: https://github.com/BadIdeaFactory/corporate/blob/master/documents/operating.md )
@@ -45,7 +46,7 @@ BIFFUD will exist until either (1) a vote to terminate the organization
 is passed by a Complete Consensus of Corporate Overlords or (2) the Hive Mind fails to
 hold a single meeting with quorum for a period of a consecutive year,
 (3) everyone dies / there are no more Corporate Overlords, or (4) if all
-Corporate Overlords identify as hetero cis white men.
+Corporate Overlords identify as cis-hetero white men.
 
 ### Continuance of Company
 If a Corporate Overlord leaves BIFFUD, dies, or uploads their brain to the
@@ -54,7 +55,7 @@ distributed (e.g. if four Corporate Overlords remain, each will own 1/4 of BIFFU
 
 ### Lawsuits Between BIFFUD Associates
 All BIFFUD associates involved in a lawsuit must play a group game of
-Mario Party 3 before any arbitration happens.  BIFFUD will loan any
+Mario Party 3 before any arbitration happens.  BIFFUD must loan any
 necessary hardware needed to make this possible.  Efforts must be made
 to obtain a Nintendo 64, however if obtaining such hardware would cause
 unreasonable burden, emulation is acceptable so long as a legal license
@@ -82,7 +83,7 @@ willing to carry the torch forward.
 Changes to Section 0 or Section 1 of this Operating Agreement will require a
 Complete Consensus vote of the Hive Mind.
 
-Changes to all other sections, or the creation of new sections, will reqire
+Changes to all other sections, or the creation of new sections, will require
 a Strong Consensus vote of the Hive Mind.
 
 At no point will any other section of this Operating Agreement override the
@@ -101,7 +102,7 @@ SECTION 2: 🤝🤝🤝 Partnership 🤝🤝🤝
 ### Types of Involvement
 1. **Corporate Overlord:** Corporate Overlords maintain ownership stake in the
 BIFFUD corporation. They have votes during plotting sessions and can review pull
-requests to `/corporate`.  Corporate Overlords may also maintain ownership stake
+requests to `corporate`.  Corporate Overlords may also maintain ownership stake
 in BIFFUD Projects.
 
 2. **Members:** Members may maintain ownership stake in Member Owned Projects. Any
@@ -127,7 +128,7 @@ work for the Overlords' enjoyment and consideration.
 3. A vote is held.
 
 If the vote passes, as defined in Section 5, then after the Plotting Session
-ends the new Corporate Overlord is onboarded and ownership of the company is
+ends the new Corporate Overlord is on-boarded and ownership of the company is
 redistributed so that each overlord owns an equal share.
 
 
@@ -160,7 +161,7 @@ Quorum and voting calculations do not include Corporate Overlords in hibernation
 There are two ways for Corporate Overlords to enter hibernation:
 
 1. If a Corporate Overlord fails to attend four scheduled plotting sessions in a row,
-regardless of whether or not Quorum was met, they are automaically considered to be
+regardless of whether or not Quorum was met, they are automatically considered to be
 hibernating.
 
 2. If a Corporate Overlord provides written communication to the Overmind that they
@@ -175,7 +176,7 @@ must sign the membership contract found in `/documents/member_agreement.md`.
 
 
 ### Removing Members
-Members are removed from the organization when they are no longer associated with any
+Members may be removed from the organization by the Beastmaster when they are no longer associated with any
 BIFFUD projects.
 
 
@@ -186,8 +187,7 @@ contributor license agreement found in `/documents/minion_agreement.md`.
 
 
 ### Removing Minions
-Minions lose their status automatically one year after their most recent contribution
-to a BIFFUD project.
+Minions lose their status automatically one year after their most recent contribution to a BIFFUD project.
 
 
 ### Corporate Overlord Responsibilities
@@ -220,8 +220,7 @@ Minions hold no responsibilities at the corporate level of BIFFUD.
 
 ### Elected Roles
 In addition to base expectations, the following positions are to be held
-by corporate overlords.  They are elected annually.  Details of the election
-process are explained in Section 5.
+by corporate overlords.  Details of the election process are provided in Section 5.
 
 - **Overmind (President):** Has a gavel.  The President is responsible for
 running Plotting Sessions and signing contracts with third parties.
@@ -234,17 +233,16 @@ out the President's duties if the President goes into hibernation.
 and approves small expenses.
 
 - **Keeper of Lore (Secretary):** Ensures notes and minutes are taken for meetings,
-ensures that proper CONTRIBUTING.md protocols are followed in `/corporate`.
+ensures that proper CONTRIBUTING.md protocols are followed in `corporate`.
 
 - **Keeper of Code:** Ensures that corporate defined commit protocols are
-followed in all BIFFUD projects, as well as `/corporate`.
+followed in all BIFFUD projects, as well as `corporate`.
 
-- **Beastmaster:** Makes interim decisions related to BIFFUD projects and
+- **Beastmaster:** Makes certain decisions related to BIFFUD projects and
 ensures that the corporate overlords are aware of the progress and activity
 of BIFFUD projects.
 
-- **The Popular One:** Runs our social media accounts with input from other
-interested Corporate Overlords.
+- **The Popular One:** Handles public communication.  Runs BIFFUD social media accounts with input from other interested Corporate Overlords.
 
 Detailed responsibilities of each role are explained in the corresponding
 `roles/*.md` file.
@@ -252,6 +250,8 @@ Detailed responsibilities of each role are explained in the corresponding
 If nobody is willing to take on a role, Corporate Overlords are encouraged to
 send regular announcements to The Hive through the loudest and most obnoxious
 mechanism at their disposal until the role is filled.
+
+If an elected member goes into hibernation or decides to step down, a Fire Sale Election is to be held as described in Section 5.
 
 ---------------------------------------------------------------------
 SECTION 3: 🤔🤔🤔 Projects 🤔🤔🤔
@@ -301,9 +301,9 @@ into the project.
 
 
 ### Disputes Between Project Owners
-If project owners disagree, the Beastmaster is responsible for addressing the
-disagreement.  If the beastmaster fails to create harmony, the Beastmaster proposes a
-solution and if either the Undermind or Overmind approve it, the Owners in conflict can
+If project owners disagree, the Beastmaster will attempt to address the
+disagreement.  If the Beastmaster fails to create harmony, the Beastmaster proposes a
+solution and if either the Undermind or Overmind approve it, the Owners in conflict must
 either accept that solution or mutually agree on an alternative.
 
 ### Retiring a BIFFUD Project
@@ -340,7 +340,7 @@ realistic to implement, and should be "Chaotic Good", "Neutral Good", or
 "Chaotic Neutral".  All of these data points simply serve as guidance. The ultimate
 decision of what projects should be adopted falls on the Corporate Overlords.
 
-### Intellectial Property / Internet Protocol
+### Intellectual Property / Internet Protocol
 The following numbered clauses apply to all BIFFUD projects unless explicitly approved
 otherwise by the Corporate Overlords during project approval or at a later date during
 a plotting session.
@@ -351,7 +351,7 @@ Majority of the Corporate Overlords (for example, if another license is necessar
 purposes of fulfilling third party funding requirements, or if a copyleft license better suits
 the goals of the Project).
 
-2. All BIFFUD projects must have the language written in `documents/contributing_addition.md`
+2. All BIFFUD projects must have the language written in `documents/federated_contributing.md`
 inserted into a CONTRIBUTING.md file at the root level of the project unless explicitly
 approved otherwise by the Corporate Overlords during project approval or at a later date
 during a plotting session.
@@ -360,8 +360,8 @@ during a plotting session.
 project must be granted to BIFFUD before it can be incorporated into a project, unless the
 Beastmaster gives their approval.
 
-The Hive Mind has the ability to transfer IP to or from external sources (with approval of
-project owners).  These actions require a Majority vote of the Corporate Overlords.
+The Hive Mind has the ability to transfer Intellectual Property between BIFFUD and any external source (with approval of
+project owners) through approval of the Overmind, Undermind, and Beastmaster.  The Keeper of Lore is responsible for ensuring that documentation regarding the transfer is appropriately cataloged in `corporate`
 
 ---------------------------------------------------------------------
 SECTION 4: 💵💵💵 MONEY 💵💵💵
@@ -379,14 +379,16 @@ SECTION 4: 💵💵💵 MONEY 💵💵💵
 Corporate Overlords must contribute a $300 initial capital contribution
 to BIFFUD within three months of indoctrination.
 
-The Hive Mind can vote to increase the required capitalcontribution number,
+The Hive Mind can vote to increase the required capital contribution number,
 as described in Section 5. Contribution increases are retroactive and Corporate
 Overlords have 3 months to cough up the extra dough.
 
+Failure to contribute in a timely manner will result in revocation of Corporate Overlord status.
+
 ### Third Party contributions
-Third parties can give money to BIFFUD as a non-deductable donation or grant,
-and that money will be allocated according to the terms agreed upon by the
-Overmind, Treasure Goblin, and the third party.  These donations do not come
+Third parties can give money to BIFFUD as a non-deductible donation or grant.
+Money donated in this way will be allocated according to the terms agreed upon by the
+Overmind, Treasure Goblin, and the third party.  Donations do not come
 with any expectation of ownership of BIFFUD.
 
 ### Organizational Resources
@@ -396,19 +398,16 @@ services, fonts, La Croix, or other assets that need cash money to obtain.
 
 ### Project Resources
 The Hive Mind is responsible for allocating financial support to BIFFUD Projects.
-The project owners must select a single person to be the project's "Comptroller" who
+Project owners must select a single person to be the project's "Comptroller" who
 is responsible for approving any invoices associated with a project and working with
 the Beastmaster and Treasure Goblin to receive access to centralized services or
 financial reimbursement, depending on the nature of the allocation.
 
-At the time of budget approval the Corporate Overlords must specify if
-the resources are being "given" or "loaned" to the project.
-
-Invoices that are not approved by a project's Cashier will not be compensated
+Invoices that are not approved by a project's Comptroller will not be compensated
 unless they are explicitly approved by the Treasure Goblin.
 
 ### Distributing Profits
-Profits are calculated at the end of the fiscal year ((Howard To Define)).  If by
+Profits are calculated at the end of the fiscal year (December 31st).  If by
 some miracle there are profits on a given year, the following formula
 will dictate its distribution:
 
@@ -438,10 +437,10 @@ percentage would be half that of a full-term Corporate Overlord's.
 
 ### Compensation
 Any compensation paid to individuals working on a project must be associated
-with a contract that has either been approved by the Treasurer and Overmind.
+with a contract that has either been approved by both the Treasurer and the Overmind.
 
 ### Expenses
-Members and Coporate Overlords may receive reimbursement for expenses associated
+Members and Corporate Overlords may receive reimbursement for expenses associated
 with a project through the processes outlined in the "Allocating Resources For
 Projects" section.
 
@@ -454,10 +453,10 @@ During the plotting session at the end of each fiscal year the Corporate Overlor
 must consider a vote on the purchase of a company canoe, to be named and labeled the
 "BIFS BIFFUD Canoe".  If ever approved, the Corporate Overlords must update this
 agreement with a record of the achieved milestone as well as the identification of a
-new capitalistic goal.
+new capitalistic goal and a new name.
 
 All company vehicles, ships, and other purchases must appropriately named. These names
-shall be catalogued by the Keeper of Lore.
+shall be cataloged by the Keeper of Lore.
 
 Corporate ship names shall be prefixed by "BIFS" which will stand for "Bad Idea Factory
 Ship."
@@ -475,22 +474,23 @@ SECTION 5: 🗣🗣🗣 Governing Process 🗣🗣🗣
 
 ### Schedules and Expectations
 All meaningful organizational decisions will happen in monthly Plotting
-Sessions, which are to be scheduled and announced by the Overmind on
-April 1st of every year.  The schedule can be updated as needed, but
-a notice of 10 days must be given before any Plotting Session can be
-held.
+Sessions, which are to be scheduled and announced and publicly documented by the Keeper of Lore on April 1st of every year.  The schedule can be updated as needed, but a notice of 10 days must be given before any Plotting Session can be held.
 
 Notices of meetings are to be communicated via email notification and
 published on GitHub `corporate` in CALENDAR.md
 
-April 1st marks the beginning of the Governing Year, and officer elections
-must be held during the month of April.
+April 1st marks the beginning of the Governing Year, and all positions are considered open until re-filled.  During this time, previously elected officials maintain their positions temporarily.  An Election must be held during a Plotting Session in the month of April.  If an Election is not held in April then a period of Anarchy occurs.
 
+### Period of Anarchy
+During a period of Anarchy, any Corporate Overlord able to achieve quorum may chair a Fire Sale Election for any open role.  April 1st of every year is always considered a period of Anarchy.
+
+### April 1st
+Votes cast during Plotting Sessions by Corporate Overlords on April 1st of every year are not real and motions can not actually be passed.  Votes and motions must still be recorded by the Keeper of Lore.
 
 ### Deliberation Processes
 #### Plotting Session
 Plotting Sessions are agenda driven and require a Quorum.  They
-are led by the chair (as determined by the chain of command).
+are led by the chair (as determined by the Chain of Command).
 
 The Hive Mind will use Robert's Rules of Order to run Plotting Sessions
 in an orderly and Robertly fashion.
@@ -498,8 +498,9 @@ in an orderly and Robertly fashion.
 When possible, video should be enabled for any plotting session.  Votes should be
 cast using physical emoji 👍, 👎, and 😐 (or any skin tone variation) depicted
 on signs attached to sticks and held up to indicate votes of yes, no, and abstain
-respectively.  Members can also vote by raising their hands, but this will
-be considered lame.
+respectively.  Members can also vote by raising their hands, or by voice, but this will be considered lame.
+
+"Yar" and "Nar" are considered valid alternatives to "Aye" and "Nay" during voice votes.
 
 A role call vote can take place instead if the Secretary of Lore or the meeting
 chair deems it necessary in order to properly tally a vote.
@@ -509,8 +510,6 @@ chair deems it necessary in order to properly tally a vote.
 Decisions made on GitHub are either interim decisions that must
 culminate in a Plotting Session to finalize, or they are decisions
 related to BIFFUD's GitHub process and documentation policy.
-
-Almost all decisions involve GitHub at some level.
 
 1. The person requesting a vote should review the instructions set
 forth in `CONTRIBUTING.md` based on the type of vote being requested.
@@ -522,19 +521,16 @@ BIFFUD corporate repository.
 related to standards violations or mistakes.
 
 4. Once the Pull Request is deemed valid, the Secretary of Code requests
-a review from all Corporate Overlords.
+a review from the relevant role.
 
-4. Corporate Overlords vote using GitHub's review feature.  Approval
-is a yes vote, Rejection is a no vote, and Comments are used to request
-more information or changes.
+4. Corporate Overlords may weigh in using comments.
 
 5. Requests that require a Plotting Session are left open until a final
-vote is taken during a plotting session.  The Secretary of Lore updates
-the Pull Request with a record of the vote outcome from the Plotting
-Session.
+vote is taken during a plotting session.  If a vote during a plotting session is associated with a Pull Request, The Secretary of Lore updates
+the Pull Request with a record of the vote outcome.
 
 6. Requests that do not require a Plotting Session are left open until
-they pass or fail.  Votes that do not require a Plotting Session
+they pass or fail.  Requests that do not require a Plotting Session
 automatically fail if they have been open for over a month.
 
 If a vote is considered preliminary, although actions may be triggered
@@ -552,14 +548,14 @@ by the Secretary of Code and the branch is deleted.
 The following decisions will require a formal input from the Hive Mind.
 
 The GitHub processes for each decision are outlined in CONTRIBUTING.md
-and those processes must be followed.
+and those processes should be followed.
 
 - **Adding projects (Preliminary):** GitHub (needs Apathetic Support).
 This type of request is made by anybody who wants to submit their
 project or idea to BIFFUD for approval to become an official BIFFUD
 project. Upon preliminary approval the code base is incorporated into
-the BIFFUD repository and the project owners are given a biffud.com
-subdomain.
+the BIFFUD repository and the Beastmaster provides the project owners
+with a biffud.com subdomain.
 
 - **Adding projects:** Plotting Session (needs Strong Consensus). If
 the vote passes, the steps outlined in the preliminary vote description
@@ -582,8 +578,8 @@ Beastmaster; it requires Strong Consensus during a Plotting Session.
 - **Removing projects:** Plotting Session (needs Strong Consensus).
 If a project has been voted for removal from BIFFUD, the project must
 be removed from BIFFUD servers and team repository.  The transfer plan
-and timeline should be specified as part of the vote.  If it is not,
-the timeline is a month and the intent is to transfer related code and
+and time line should be specified as part of the vote.  If it is not,
+the time line is a month and the intent is to transfer related code and
 data to project owners.
 
 - **Adding Corporate Overlords:** Plotting Session (needs Strong
@@ -601,12 +597,12 @@ Strong Consensus).
 
 - **Approving expenses (Preliminary):** GitHub (needs Majority).
 Preliminary approval of expenses above $100 will allow the Treasure
-Goblin to release preliminarily approved funds at their discression
-within the bounds of the approved expense timeline.
+Goblin to release preliminarily approved funds at their discretion
+within the bounds of the approved expense time line.  Note: the Treasure Goblin cannot approve their own expenses.
 
 - **Approving expenses:** Plotting Session (needs Strong Consensus).
 Upon approval the Treasure Goblin must release approved funds within
-the bounds of the approved expense timeline.
+the bounds of the approved expense time line or the approval is voided.
 
 - **Canceling tax reimbursement:** Plotting Session (needs Strong
 Consensus).  This vote indicates that the tax reimbursement to
@@ -618,17 +614,21 @@ for the current fiscal year.
 Overlords will be required to make an additional capital contribution
 in order to remain Corporate Overlords.
 
-- **Creating one-time capital dispersements:** Plotting Session (needs
-Strong Consensus).  This vote idicates that BIFFUD will disperse capital
+- **Creating one-time capital dispersement:** Plotting Session (needs
+Strong Consensus).  This vote indicates that BIFFUD will disperse capital
 to Corporate Overlords in proportion to their ownership levels.
 
 - **Making modifications to `CONTRIBUTING.md`:** GitHub (needs Apathetic
 Support).  This vote approves changes to the processes associated with
 the votes as described in CONTRIBUTING.md
 
-- **Making other modifications to `/corporate`:** GitHub (needs
+- **Making other modifications to `corporate`:** GitHub (needs
 Apathetic Support).  This vote approves changes to the structure or
 organization of the corporate GitHub repository.
+
+- **Approving minutes:** GitHub (needs Apathetic Support).  Minutes are
+submitted by the Secretary of Lore using the processes and standards defined in
+CONTRIBUTING.md.
 
 - **Approving minutes:** GitHub (needs Apathetic Support).  Minutes are
 submitted by the Secretary of Lore using the processes and standards defined in
@@ -664,9 +664,13 @@ Candidates must submit their application for a position 24 hours before
 the Plotting Session is scheduled to begin, using the process outlined
 in CONTRIBUTING.md.
 
-Votes will be held using the condorcet voting method.  In the event of
-a tie, then whoever can score highest in QWOP wins. If this also
-results in a tie, then idk flip a coin or something goddamn.
+Votes will be held using the Condorcet voting method.  In the event of
+a tie, then the tied candidates must choose champions.  The candidate whose champion can score highest in QWOP wins. If this also results in a tie then hold votes from people on the Internet until someone wins.
+
+### Fire Sale Elections
+In the event that a Corporate Overlord holding an elected position goes into hibernation or chooses to step down from their elected position, or if any position is unfilled for any reason then a Fire Sale Election is to be held to fill the vacant position.  Fire Sale Elections can happen during any Plotting Session and the voting process is the same as Elections except that people are probably more excited.
+
+
 
 ### Records and Documentation
 The `corporate` GitHub repository is our official record.  Minutes should be taken during
@@ -681,8 +685,12 @@ that the Secretary of Lore is adhering to the guidelines laid out in
 CONTRIBUTING.md.
 
 ---------------------------------------------------------------------
-SECTION 6: 📜📜📜 Policies 📜📜📜
+SECTION 6: 📜📜📜 Good Ideas 📜📜📜
 ---------------------------------------------------------------------
+
+These are just ideas, there is no requirement to do anything but consider
+them.
+
 - [ ] Annual algorithmic board meeting
 - [ ] Emoji on sticks
 - [ ] Pronunciation of BIFFUD
