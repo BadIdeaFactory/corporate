@@ -22,7 +22,7 @@ SECTION 0: 📓📓📓 Definitions 📓📓📓
 * The "**Hive Mind**" shall mean the "board of directors" of the Company, as defined by Pennsylvania state law. The Hive Mind shall consist of all current Corporate Overlords of the Company.
 * "**Plotting Session**" shall mean a meeting of the "board of directors" of the Company, as defined by Pennsylvania state law.
 * "**Quorum**" shall mean the presence of 2/3 or more of the company's Corporate Overlords.
-* "**Chain of Command**" shall refer to the following order: Overlord, Underlord, Keeper of Lore, Treasure Goblin, Beastmaster, The Popular One, Secretary of Code.
+* "**Chain of Command**" shall refer to the following order: Overmind, Undermind, Keeper of Lore, Treasure Goblin, Beastmaster, The Popular One, Secretary of Code.
 * "**Operating Agreement**" shall refer to the official version of this document
 to be held in a file named `operating.md` in the `documents` directory of the
 `master` branch of the `corporate` repository within the `BadIdeaFactory` team hosted on GitHub. (As of July 2017, the described version of the file may be located at: https://github.com/BadIdeaFactory/corporate/blob/master/documents/operating.md )
@@ -235,7 +235,7 @@ and approves small expenses.
 - **Keeper of Lore (Secretary):** Ensures notes and minutes are taken for meetings,
 ensures that proper CONTRIBUTING.md protocols are followed in `corporate`.
 
-- **Keeper of Code:** Ensures that corporate defined commit protocols are
+- **Secretary of Code:** Ensures that corporate defined commit protocols are
 followed in all BIFFUD projects, as well as `corporate`.
 
 - **Beastmaster:** Makes certain decisions related to BIFFUD projects and
@@ -502,7 +502,7 @@ respectively.  Members can also vote by raising their hands, or by voice, but th
 
 "Yar" and "Nar" are considered valid alternatives to "Aye" and "Nay" during voice votes.
 
-A role call vote can take place instead if the Secretary of Lore or the meeting
+A role call vote can take place instead if the Keeper of Lore or the meeting
 chair deems it necessary in order to properly tally a vote.
 
 
@@ -526,7 +526,7 @@ a review from the relevant role.
 4. Corporate Overlords may weigh in using comments.
 
 5. Requests that require a Plotting Session are left open until a final
-vote is taken during a plotting session.  If a vote during a plotting session is associated with a Pull Request, The Secretary of Lore updates
+vote is taken during a plotting session.  If a vote during a plotting session is associated with a Pull Request, The Keeper of Lore updates
 the Pull Request with a record of the vote outcome.
 
 6. Requests that do not require a Plotting Session are left open until
@@ -627,11 +627,11 @@ Apathetic Support).  This vote approves changes to the structure or
 organization of the corporate GitHub repository.
 
 - **Approving minutes:** GitHub (needs Apathetic Support).  Minutes are
-submitted by the Secretary of Lore using the processes and standards defined in
+submitted by the Keeper of Lore using the processes and standards defined in
 CONTRIBUTING.md.
 
 - **Approving minutes:** GitHub (needs Apathetic Support).  Minutes are
-submitted by the Secretary of Lore using the processes and standards defined in
+submitted by the Keeper of Lore using the processes and standards defined in
 CONTRIBUTING.md.
 
 Here's a summary table:
@@ -674,14 +674,14 @@ In the event that a Corporate Overlord holding an elected position goes into hib
 
 ### Records and Documentation
 The `corporate` GitHub repository is our official record.  Minutes should be taken during
-Plotting Sessions, and it is the responsibility of the Secretary of Lore or a
+Plotting Sessions, and it is the responsibility of the Keeper of Lore or a
 temporary appointee to take notes that reflect attendance, decisions, meaningful
 discussion, and vote counts.
 
 The contents of the corporate github make up the corporate records.
 Documentation structure and organization should be performed as outlined
 in CONTRIBUTING.md.  The Secretary of Code is responsible for ensuring
-that the Secretary of Lore is adhering to the guidelines laid out in
+that the Keeper of Lore is adhering to the guidelines laid out in
 CONTRIBUTING.md.
 
 ---------------------------------------------------------------------
