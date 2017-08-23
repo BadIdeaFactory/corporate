@@ -1,6 +1,6 @@
 # Moonlighting request
 
-Some employers have policies that prevents employees from engaging in any external work without prior approval. The following is a template you can use to request an exemption.
+Some employers have policies that prevent employees from engaging in any external work without prior approval. The following is a template you can use to request an exemption.
 
 ```
 As per the employee agreement between me and {{employer name}}, I would like to inform you of my involvement with Bad Idea Factory Limited Liability Company, a limited liability company domiciled in Pennsylvania and request an exemption to the {{policy name}}.
