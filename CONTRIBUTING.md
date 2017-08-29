@@ -131,3 +131,9 @@ necessary you can do it from the command line:
 
     # Delete it upstream.
     $ git push origin --delete some-now-fully-merged-branch
+
+
+### Elections
+People running for a position should commit an application (found at [applications/elections/general_candidate.md](applications/elections/general_candidate.md)) to the `records/elections/candidates/[date]/[lastname]_[firstname].md`
+
+As described in operating.md, the PR must be opened 24 hours before the election is held.
