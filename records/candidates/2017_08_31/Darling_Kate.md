@@ -1,7 +1,14 @@
 ## Who are you?
 Kate Darling
 ## What position are you running for?
-[x] The Popular One
+
+- [ ] Overmind  
+- [ ] Undermind  
+- [ ] Treasure Goblin  
+- [ ] Keeper of Lore  
+- [ ] Secretary of Code  
+- [ ] Beastmaster  
+- [x] The Popular One
 
 ## Why are you qualified?
 My Twitter powers have summoned a red dress and free ice cream. Also, I proposed to my husband on Twitter and he said yes.

@@ -3,7 +3,13 @@ Ted Han
 
 ## What position are you running for?
 
-[x] Undermind
+- [ ] Overmind  
+- [x] Undermind  
+- [ ] Treasure Goblin  
+- [ ] Keeper of Lore  
+- [ ] Secretary of Code  
+- [ ] Beastmaster  
+- [ ] The Popular One
 
 ## Why are you qualified?
 

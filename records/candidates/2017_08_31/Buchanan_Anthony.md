@@ -4,7 +4,14 @@ Anthony Buchanan
 _Some people call me the internet cowboy, yeah! Some call me the ganster of usenet, some people call me Anthony, 
 cause I speak of the pompatus of love_
 ## What position are you running for?
-**Keeper of Lore**
+
+- [ ] Overmind  
+- [ ] Undermind  
+- [ ] Treasure Goblin  
+- [x] Keeper of Lore  
+- [ ] Secretary of Code  
+- [ ] Beastmaster  
+- [ ] The Popular One
 
 ## Why are you qualified?
 * I successfully completed Mavis Beacon Teaches Typing
