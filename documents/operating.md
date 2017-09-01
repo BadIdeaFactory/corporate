@@ -9,7 +9,7 @@ Contents:
 3.  Projects
 4.  Money
 5.  Governing Process
-6.  Policies
+6.  Good Ideas
 
 ---------------------------------------------------------------------
 SECTION 0: 📓📓📓 Definitions 📓📓📓
@@ -138,7 +138,7 @@ its consciousness to the cloud, or submitting a letter of resignation to the
 President of BIFFUD, the Governor of Pennsylvania, and the President of the
 United States.
 
-Corporate Overlords can also vote to remove a peer from the organization if
+Corporate Overlords may also vote to remove a peer from the organization if
 any of the following conditions apply:
 
 - The Corporate Overlord fails to attend 50% of the monthly plotting sessions
@@ -227,7 +227,8 @@ running Plotting Sessions and signing contracts with third parties.
 
 - **Undermind (Vice President):** Has a smaller gavel.  The Vice President
 is responsible for laughing whenever the President makes a joke and filling
-out the President's duties if the President goes into hibernation.
+out the President's duties if the President goes into hibernation, and
+Undermin(d)ing the Overmind.
 
 - **Treasure Goblin (Treasurer):** Keeps track of money, works with accountants, oversees
 and approves small expenses.
@@ -245,7 +246,8 @@ of BIFFUD projects.
 - **The Popular One:** Handles public communication.  Runs BIFFUD social media accounts with input from other interested Corporate Overlords.
 
 Detailed responsibilities of each role are explained in the corresponding
-`roles/*.md` file.
+`roles/*.md` file.  One person is allowed to fill more than one role, however
+the Overmind and Undermind must be separate people.
 
 If nobody is willing to take on a role, Corporate Overlords are encouraged to
 send regular announcements to The Hive through the loudest and most obnoxious
@@ -275,11 +277,11 @@ All owners of a project must be BIFFUD members, and the percentages and specific
 terms of ownership must be coordinated by those members as part of the project's
 induction into The Company in the form of an Ownership Contract.
 
-The Ownership Contract should specify participation expectations
+The Ownership Contract must specify participation expectations
 and ownership percentages, as well as guidelines for how potential profits
 should be distributed.
 
-Changes to project ownership over time must be communicated to The Beastmaster.
+Changes to project ownership must be communicated to The Beastmaster.
 
 ### Project Resources
 Resources required to complete or support a project can come from several
@@ -333,7 +335,7 @@ the following questions are recommended.
 2. Where are the lulz?
 3. Does it make you thinking face emoji?
 4. Is it realistic to implement through BIFFUD?
-5. If the project were a character in Dungeons and Dragons, what would it's alignment be?
+5. If the project were a character in Dungeons and Dragons, what would its alignment be?
 
 The BIFFUD brand deserves compelling answers to questions 1 and 2. Projects should be
 realistic to implement, and should be "Chaotic Good", "Neutral Good", or
@@ -659,13 +661,14 @@ Here's a summary table:
 
 
 ### Elections
-Elections are held during the first Plotting Session after April 1st.
-Candidates must submit their application for a position 24 hours before
-the Plotting Session is scheduled to begin, using the process outlined
-in CONTRIBUTING.md.
+Elected terms end on April 1st and Elections for those seats are held during the Plotting Session held in March. Candidates must submit their application for a position 24 hours before the Plotting Session is scheduled to begin, using the process outlined in CONTRIBUTING.md.
 
 Votes will be held using the Condorcet voting method.  In the event of
 a tie, then the tied candidates must choose champions.  The candidate whose champion can score highest in QWOP wins. If this also results in a tie then hold votes from people on the Internet until someone wins.
+
+If there is only one candidate for a given position the election requires a Majority vote.
+
+If a Majority of Corporate Overlords abstain from voting for a particular position, the election results don't count.
 
 ### Fire Sale Elections
 In the event that a Corporate Overlord holding an elected position goes into hibernation or chooses to step down from their elected position, or if any position is unfilled for any reason then a Fire Sale Election is to be held to fill the vacant position.  Fire Sale Elections can happen during any Plotting Session and the voting process is the same as Elections except that people are probably more excited.
