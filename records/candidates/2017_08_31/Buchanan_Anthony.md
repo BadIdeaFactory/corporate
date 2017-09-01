@@ -8,8 +8,8 @@ cause I speak of the pompatus of love_
 - [ ] Overmind  
 - [ ] Undermind  
 - [ ] Treasure Goblin  
-- [x] Keeper of Lore  
-- [ ] Secretary of Code  
+- [ ] Keeper of Lore  
+- [x] Secretary of Code  
 - [ ] Beastmaster  
 - [ ] The Popular One
 
