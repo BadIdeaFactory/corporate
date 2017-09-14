@@ -1,0 +1,6 @@
+"Oh my god is this the thing that finally makes me join LinkedIn" - Kate
+
+"I have to admit I fell asleep during the call" - Ben
+
+"The branch manager asked me what the name of our company was and when I told her she just started laughing" - Lou
+
