@@ -6,6 +6,9 @@ Dan Schultz - Project lead
 Mark Boas - Front end, Project management
 Laurian Gridinoc - Systems engineer
 
+## Who is the comptroller?
+Dan Schultz
+
 ## What is the goal?
 Find when viral video clips aired on TV, show the context.
 
