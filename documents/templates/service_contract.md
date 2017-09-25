@@ -3,7 +3,7 @@
 This Professional Services Agreement (the “Agreement”) is made and entered into as of `_________`, (“Effective Date”), by and between Bad Idea Factory Limited Liability Company, (“Company”), and `_________` (“Contractor”).
 Upon the following terms and conditions of this Agreement, Company desires to retain Contractor to perform the following:
 
-1.  **__Services and Payment.__**.
+1.  **__Services and Payment.__**
 Contractor agrees to undertake and complete the Services (as defined in Exhibit A) in accordance with and on the schedule specified in Exhibit A.  As the only consideration due Contractor regarding the subject matter of this Agreement, Company will pay Contractor in accordance with Exhibit A.
 
 2.  **__Work Product; Open Source Licenses.__**
@@ -28,16 +28,22 @@ Any controversy or claim arising out of or relating to this Agreement, or the br
 The failure of either party to enforce its rights under this Agreement at any time for any period shall not be construed as a waiver of such rights.  No changes or modifications or waivers to this Agreement will be effective unless in writing and signed by both parties.  In the event that any provision of this Agreement shall be determined to be illegal or unenforceable, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and enforceable.  This Agreement shall be governed by and construed in accordance with the laws of the State of New York without regard to the conflicts of laws provisions thereof.  In any action or proceeding to enforce rights under this Agreement, the prevailing party will be entitled to recover costs and attorneys’ fees.  Headings herein are for convenience of reference only and shall in no way affect interpretation of the Agreement.
 IN WITNESS WHEREOF, the parties have entered into this Professional Services Agreement as of the date set forth above.
 
-`____________________`              Bad Idea Factory Limited Liability Company
+```
+____________________              Bad Idea Factory Limited Liability Company
 (Contractor)                        (Company)
 
 By                                  By
-`_________________________`         `_________________________`
-`_________________________`         `_________________________`
-`_________________________`         `_________________________`
-`_________________________`         `_________________________`
-Printed (Name, Title and Address)   Printed (Name, Title and Address)
 
+_________________________          _________________________
+
+_________________________          _________________________
+
+_________________________          _________________________
+
+_________________________          _________________________
+
+Printed (Name, Title and Address)   Printed (Name, Title and Address)`
+```
 
 # EXHIBIT A
 
