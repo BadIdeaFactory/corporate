@@ -152,5 +152,25 @@
                 ["Printed (Name, Title and Address)", "Printed (Name, Title and Address)"]
             ]
         },
+        {
+            "type": "exhibit",
+            "text" "Exhibit A: Scope of Work"
+        },
+        {
+            "type": "section",
+            "text" "Services"
+        },
+        {
+            "type": "paragraph",
+            "text": "${Services}"
+        },
+        {
+            "type": "section",
+            "text" "Compensation"
+        },
+        {
+            "type": "paragraph",
+            "text": "${Compensation}"
+        },
     ]
 }
