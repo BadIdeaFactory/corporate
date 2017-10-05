@@ -129,3 +129,35 @@ code, especially if it differs from the project's Apache License, Version 2.0.
 People running for a position should commit an application (found at [applications/elections/general_candidate.md](applications/elections/general_candidate.md)) to the `records/elections/candidates/[date]/[lastname]_[firstname].md`
 
 As described in operating.md, the Issue must be opened 24 hours before the election is held.
+
+## How do I (general) ...
+### Apply to add a project to BIFFUD?
+
+### Apply to be a Corporate Overlord?
+
+### Apply for an elected position?
+
+### Know when the next Plotting Session will be?
+
+### Submit a new poem?
+
+### Create a new contract with someone?
+
+### View the next meeting's agenda?
+
+### Add something to the next meeting's agenda?
+
+### View meting minutes?
+
+### Request a paid expense?
+
+### Make a modification to a project budget?
+
+## How do I (Overmind)...
+### Publish meeting agendas?
+
+## How do I (Keeper of Lore)
+### Submit new meeting minutes?
+
+## How do I (Beastmaster)...
+### Publish information about project resources?
