@@ -7,29 +7,19 @@
             "prompt": "When will the contract take effect?"
         },
         {
-            "name": "Contractor Name",
+            "name": "Name",
             "type": "string",
             "prompt": "What is the full name of the contractor?"
         },
         {
-            "name": "Contractor Address",
+            "name": "Address",
             "type": "string",
             "prompt": "What is the street address of the contractor?"
         },
         {
-            "name": "Contractor City",
+            "name": "City, State, Zip",
             "type": "string",
-            "prompt": "What is the city of the contractor?"
-        },
-        {
-            "name": "Contractor State",
-            "type": "string",
-            "prompt": "What is the state of the contractor?"
-        },
-        {
-            "name": "Contractor Zip",
-            "type": "string",
-            "prompt": "What is the zip of the contractor?"
+            "prompt": "What is the city, state, and zip of the contractor?"
         },
         {
             "name": "Services",
@@ -45,7 +35,7 @@
     "content": [
         {
             "type": "paragraph",
-            "text": "This Professional Services Agreement (the “Agreement”) is made and entered into as of `${Effective Date}`, (“Effective Date”), by and between Bad Idea Factory Limited Liability Company, (“Company”), and `${Contractor Name}` (“Contractor”)."
+            "text": "This Professional Services Agreement (the “Agreement”) is made and entered into as of `${Effective Date}`, (“Effective Date”), by and between Bad Idea Factory Limited Liability Company, (“Company”), and `${Name}` (“Contractor”)."
         },
         {
             "type": "paragraph",
@@ -150,13 +140,19 @@
         {
             "type": "table",
             "rows": [
-                ["____________________             ", "Bad Idea Factory Limited Liability Company"],
-                ["(Contractor)                     ", "(Company)"],
-                ["By                               ", "By"],
-                ["${Contractor Name}               ", "_________________________"],
-                ["Contractor                       ", "_________________________"],
-                ["${Contractor Address}            ", "239 Glenwood Rd."],
-                ["${Contractor City}, ${Contractor State}, ${Contractor Zip}", "Elkins Park, PA, 19027"],
+                ["_________________________________", "Bad Idea Factory"],
+                ["(Contractor)", "(Company)"],
+                ["", ""],
+                ["By", "By"],
+                ["", ""],
+                ["${Name}", "_________________________"],
+                ["", ""],
+                ["_________________________", "_________________________"],
+                ["", ""],
+                ["${Address}", "239 Glenwood Rd."],
+                ["", ""],
+                ["${City, State, Zip}", "Elkins Park, PA, 19027"],
+                ["", ""],
                 ["Printed (Name, Title and Address)", "Printed (Name, Title and Address)"]
             ]
         },
