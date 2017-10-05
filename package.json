@@ -1,0 +1,9 @@
+{
+  "name": "corporate",
+  "version": "1.0.0",
+  "description": "The corporate toolkit of Bad Idea Factory",
+  "main": "index.js",
+  "repository": "git@github.com:BadIdeaFactory/corporate.git",
+  "author": "BIFFUD Hive Mind",
+  "license": "Apache License, Version 2.0"
+}

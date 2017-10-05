@@ -40,7 +40,7 @@
             "name": "Compensation",
             "type": "string",
             "prompt": "What is the number of hours, hourly rate, any additional expected fees, and payment schedule."
-        },
+        }
     ],
     "content": [
         {
@@ -73,10 +73,18 @@
         },
         {
             "type": "subsection",
+            "text": "Indemnification"
+        },
+        {
+            "type": "paragraph",
             "text": "Company covenants and warrants that it shall use the Work Product in accordance with the Open Source Licenses and shall indemnify Contractor for any damages caused by Company’s breach of the Open Source Licenses."
         },
         {
             "type": "subsection",
+            "text": "Warranty"
+        },
+        {
+            "type": "paragraph",
             "text": "Contractor warrants that its Services will be performed in a professional and workmanlike manner in accordance with applicable professional standards and will meet specifications described in Exhibit A and that it shall perform any work to be in compliance with this warranty brought to its attention within thirty (30) days after the acceptance of Work Product. Contractor further warrants and represents that to its knowledge, after reasonable investigation, the Services do not infringe the intellectual property rights of any third party. Except for the warranty expressly set forth in this Section, Company acknowledges and agrees that it has relied on no other representations or warranties and that no other representations or warranties have formed the basis of its acceptance of the terms of this Agreement."
         },
         {
@@ -154,11 +162,11 @@
         },
         {
             "type": "exhibit",
-            "text" "Exhibit A: Scope of Work"
+            "text": "Exhibit A: Scope of Work"
         },
         {
             "type": "section",
-            "text" "Services"
+            "text": "Services"
         },
         {
             "type": "paragraph",
@@ -166,11 +174,11 @@
         },
         {
             "type": "section",
-            "text" "Compensation"
+            "text": "Compensation"
         },
         {
             "type": "paragraph",
             "text": "${Compensation}"
-        },
+        }
     ]
 }
