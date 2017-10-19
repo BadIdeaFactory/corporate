@@ -21,11 +21,19 @@ of an original creative work.
 - Twitter Handle: [@handle]
 - Social Security Number (pick one): [1]
 
-## Survey
-### Why do you want to be a Corporate Overlord?
-[Your answer here]
+## Bylaw Questions
+### What the title of your biography?
+[Title here]
+
+### Ok, now write your biography?
+[Entire life story here]
 
 ### How will you submit your original creative work?
+[Your answer here]
+
+
+## Survey
+### Why do you want to be a Corporate Overlord?
 [Your answer here]
 
 ### Do you identify as a cis-hetero white man?
