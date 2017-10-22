@@ -2,9 +2,13 @@
 
 This document contains information of use to partners looking to
 improve the BIFFUD's corporate documentation.  See [README.md](README.md)
-for a sense of what this repository is handles.
+for a sense of the purpose of this repository.
 
-## Submitting and Reviewing Documentation
+You should also look at the [Corporate Bylaws](documents/OPERATING.md)
+which lays out some of the processes around the repository.
+
+## Baseline Concepts
+### Submitting and Reviewing Documentation
 
 This repository has a home on
 [GitHub](https://github.com/BadIdeaFactory/corporate).  Please submit
@@ -21,50 +25,59 @@ opportunity people should have to comment on it.  That means it should
 garner more comments/approvals or it means it should sit longer before
 being merged.
 
-PRs with meaningful changes will require a 50% or more vote from voting
-partners.
+Note: Some types of PR require a vote by the corporate overlords. for instance
+approval of minutes or project applications.  Others can be merged by the
+Secretary of Code, Overmind, or Undermind.
 
-NOTE: The only exception to the PR flow are positive contributions to
-`/poems`.  A positive change to `/poems` means the creation of new
-poems or fixed typos.
+### Issues
+
+Issues are used for keeping track of corporate tasks as well as for tracking
+various types of application.
+
+Applications covered by issues:
+
+- Project applications
+- Corporate Overlord applications
+- Requested budget changes
+- Expense requests
+
+More detail for each of these tasks is provided later in this document.
+
+### Wiki
+
+The wiki is the shared knowledge base of BIFFUD.  It provides a public index
+of projects and BIFFUD overlords as well as information about how to go about
+using the various tools that we use as an organization.
+
+The repository represents reality and canonical truth.  The wiki should be
+seen as a helpful, lucid dream.
 
 ### Branching and Branch Names
+We will have a few "perma" branches that will always exist and
+are maintained by the appropriate elected role:
 
-We do all development on lightweight branches, with each branch
-encapsulating one logical changeset (that is, one group of related
-commits).  Please try to keep changesets small and well-bounded: a
-branch should usually be short-lived, and should be turned into a PR,
-reviewed, and merged to `master` as soon as possible.  Keeping
-branches short-lived reduces the likelihood of conflicts when it comes
-time to merge them back into master.
+- order: this branch is for serious business such as contracts and legal
+documentation.  It is managed by the Overmind and Undermind.
+- code: this branch is for repo infrastructure and changes to code related documentation.  It is managed by the Secretary of Code.
+- treasure: this branch is for tracking budgets and expenses.  It is managed
+by the Treasure Goblin.
+- lore: this branch is for tracking documentation and minutes.  It is managed
+by the Keeper of Lore.
+- projects: this branch is for keeping track of projects and relevant
+documents or agreements.  It is managed by the Beastmaster.
+- popularity: this branch is for keeping track of communications and marketing
+materials such as emoji, logos, and catch phrases.  It is managed by The
+Popular One.
+- chaos: this branch is for chaos.  It will hopefully never be merged.  It is
+managed by all of the corporate overlords.
 
-When a branch is associated with an issue ticket, then the branch name
-should start with the issue number and then give a very brief summary,
-with hyphens as the separator, e.g.:
-
-    871-fix-provider-risk-score
-
-Everything after the issue number is just a reminder what the branch
-addresses.  Sometimes a branch may address only part of an issue, and
-that's fine: different branches can start with the same issue number,
-as long as the summary following the issue number indicates what part
-of the issue that particular branch addresses.
-
-If there is no issue number associated with a branch, then don't start
-the branch name with a number.
-
-While there are no strict rules on how to summarize a branch's purpose
-in its name, it may help to keep in mind some common starting words:
-"`fix`", "`feature`", "`refactor`", "`remove`", "`improve`", and "`test`".
+There shouldn't be any other branches than these.  If something doesn't fit
+into any of these branches, open an issue.
 
 ### Rebases and force-pushes
 
-Force pushes (after a rebase or a `commit --amend`) are currently
-allowed everywhere except the master branch.  This repository has master
-as a "protected" branch, meaning force-pushes are disabled
-automatically.  If you're working with someone else on a shared branch
-you should talk with them before changing shared history.  We expect
-force-pushing to mostly occur in active PR branches.
+REBASES AND FORCE PUSHES ON ANY BRANCH ARE FOR THE WEAK.  LIVE WITH YOUR
+MISTAKES FOR THE WORLD TO SEE INDEFINITELY.
 
 ### Commit Messages
 
@@ -96,44 +109,55 @@ encodes these formatting conventions in a way that most text editors
 can read.
 
 ### Licensing Your Contribution
-The corporate is published under the
-[MIT License](http://www.apache.org/licenses/).  It is important that
-the codebase continue to be publishable under that license.  To make
-that possible, here are some guidelines on including 3rd party content.
+The corporate is published under the [Apache License, Version 2.0](http://www.apache.org/licenses/).
+It is important that the codebase continue to be publishable under that
+license.  To make that possible, here are some guidelines on including 3rd
+party content.
 
 If you submit content that you wrote or that you have authority to submit
-from your employer or institution, you give it to us under the MIT License.
-If the material you submit is already licensed under a similarly permissive
-license (BSD, ISC), you can tell us that and give it to us under that
-license instead.
+from your employer or institution, you give it to us under the Apache License,
+Version 2.0. If the material you submit is already licensed under a similarly
+permissive license (BSD, ISC), you can tell us that and give it to us under
+that license instead.
 
 Please make the license of the contribution clear in your pull request.  Tell
 us who wrote it, if that isn't just you.  If the code was written for
 an employer, tell us that too.  Tell us what license applies to the
-code, especially if it differs from the project's MIT license.
-
-### Expunge Branches Once They Are Merged
-
-Once a branch has been merged to `master`, please delete the branch.
-You can do this via the GitHub PR management interface (it offers a
-button to delete the branch, once the PR has been merged), or if
-necessary you can do it from the command line:
-
-    # Make sure you're not on the branch you want to delete.
-    $ git branch | grep '^\* '
-    * master
-
-    # No output from this == up-to-date, nothing to fetch.
-    $ git fetch --dry-run
-
-    # Delete the branch locally, if necessary.
-    $ git branch -d some-now-fully-merged-branch
-
-    # Delete it upstream.
-    $ git push origin --delete some-now-fully-merged-branch
-
+code, especially if it differs from the project's Apache License, Version 2.0.
 
 ### Elections
 People running for a position should commit an application (found at [applications/elections/general_candidate.md](applications/elections/general_candidate.md)) to the `records/elections/candidates/[date]/[lastname]_[firstname].md`
 
-As described in operating.md, the PR must be opened 24 hours before the election is held.
+As described in operating.md, the Issue must be opened 24 hours before the election is held.
+
+## How do I (general) ...
+### Apply to add a project to BIFFUD?
+
+### Apply to be a Corporate Overlord?
+
+### Apply for an elected position?
+
+### Know when the next Plotting Session will be?
+
+### Submit a new poem?
+
+### Create a new contract with someone?
+
+### View the next meeting's agenda?
+
+### Add something to the next meeting's agenda?
+
+### View meting minutes?
+
+### Request a paid expense?
+
+### Make a modification to a project budget?
+
+## How do I (Overmind)...
+### Publish meeting agendas?
+
+## How do I (Keeper of Lore)
+### Submit new meeting minutes?
+
+## How do I (Beastmaster)...
+### Publish information about project resources?
