@@ -32,7 +32,7 @@ Alignment:
 - [] [Neutral Good](http://easydamus.com/neutralgood.html)
 - [] [Chaotic Neutral](http://easydamus.com/chaoticneutral.html)
 
-Don't know? [This might help](https://www.google.com/search?q=D%26D+alignment+tables)
+Don't know? [This might help](https://www.google.com/search?q=D%26D+alignment+tables&source=lnms&tbm=isch)
 
 ### Where are the lulz?
 [Words go here]
