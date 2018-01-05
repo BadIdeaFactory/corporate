@@ -27,10 +27,10 @@ project supported and adored by all who can 🤔.
 [Sell us against it.]
 
 ### If this project were a D&D Character, what alignment would it be and why?
-Alignment:
-- [] [Chaotic Good](http://easydamus.com/chaoticgood.html)
-- [] [Neutral Good](http://easydamus.com/neutralgood.html)
-- [] [Chaotic Neutral](http://easydamus.com/chaoticneutral.html)
+Alignment (CHOOSE ONE):
+- [Chaotic Good](http://easydamus.com/chaoticgood.html)
+- [Neutral Good](http://easydamus.com/neutralgood.html)
+- [Chaotic Neutral](http://easydamus.com/chaoticneutral.html)
 
 Don't know? [This might help](https://www.google.com/search?q=D%26D+alignment+tables&source=lnms&tbm=isch)
 
@@ -57,5 +57,9 @@ with the project.  Must also be listed in previous section.]
 [Make us feel safe]
 
 ## Next Steps
-Please attend the next scheduled BIFFUD plotting session to plead your case.
-This issue will be updated with application status and next steps.
+1. Attend the next scheduled BIFFUD plotting session to plead your case.
+2. [List out your project plan here, in a series of steps]
+
+### How (often) will you be providing updates to the organization?
+[Ideas are great, action is better!  How often should we expect you
+to be able to make progress? How would you like to report back]
