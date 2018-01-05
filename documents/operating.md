@@ -21,7 +21,7 @@ SECTION 0: 📓📓📓 Definitions 📓📓📓
 * "**Associate**" shall mean any person legally associated with the Company through contract or ownership.
 * The "**Hive Mind**" shall mean the "board of directors" of the Company, as defined by Pennsylvania state law. The Hive Mind shall consist of all current Corporate Overlords of the Company.
 * "**Plotting Session**" shall mean a "meeting of the board of directors" of the Company, as defined by Pennsylvania state law.
-* "**Quorum**" shall mean the presence of at least 1/2 of the company's Corporate Overlords.
+* "**Quorum**" shall mean the presence of at least 1/2 + 1 of the company's Corporate Overlords.
 * "**Chain of Command**" shall refer to the following order: Overmind, Undermind, Keeper of Lore, Treasure Goblin, Beastmaster, The Popular One, Secretary of Code.
 * "**Operating Agreement**" shall refer to the official version of this document
 to be held in a file named `operating.md` in the `documents` directory of the
