@@ -145,6 +145,7 @@ As described in operating.md, the Issue must be opened 24 hours before the elect
 
 ## How do I (general) ...
 ### Apply to add a project to BIFFUD?
+TL;DR: Create an issue, under corporate label it project application
 
 ### Apply to be a Corporate Overlord?
 
