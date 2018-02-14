@@ -4,11 +4,11 @@ As described in section 11.11.B of the BIFFUD Corporate Bylaws I (we) hereby inv
 ## Project Information
 - Project Name: 
 - Project Haiku: 
-
-> your haiku goes here  
-> and replaces this text now  
-> make this good or not  
-
+```
+your haiku goes here  
+and replaces this text now  
+make this good or don't  
+```
 - Project Analogy:
 
 ### Project Description
@@ -43,8 +43,6 @@ Alignment:
 ### Who will be the project's Comptroller?
 
 ### Is it realistic to implement through BIFFUD?
-
-## What connections or third party collaborations exist already?
 
 ## Next Steps
 Please attend the next scheduled BIFFUD plotting session to plead your case.
