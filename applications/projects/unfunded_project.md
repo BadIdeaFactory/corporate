@@ -5,9 +5,9 @@ As described in section 11.11.B of the BIFFUD Corporate Bylaws I (we) hereby inv
 - Project Name: 
 - Project Haiku: 
 
-> 
-> 
-> 
+> your haiku goes here
+> and replaces this text now 
+> make this good or not
 
 - Project Analogy:
 
