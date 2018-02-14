@@ -145,33 +145,58 @@ As described in operating.md, the Issue must be opened 24 hours before the elect
 
 ## How do I (general) ...
 ### Apply to add a project to BIFFUD?
-TL;DR: Create an issue, under corporate label it project application
+1. [Create an issue](https://github.com/BadIdeaFactory/corporate/issues/new?template=project_issue_template.md) and fill out the form
+2. Add a title in the form [PROJECT NAME] Project Application
+3. Label it a project application using the Labels tag on the right side
+4. Submit!
 
 ### Apply to be a Corporate Overlord?
+1. [Create an issue](https://github.com/BadIdeaFactory/corporate/issues/new?template=overlord_issue_template.md) and fill out the form
+2. Add a title in the form [YOUR NAME] Corporate Overlord Application
+3. Label it a corporate overlord application using the Labels tag on the right side
+4. Submit! (and Profit?)
 
 ### Apply for an elected position?
+1. [Create an issue](https://github.com/BadIdeaFactory/corporate/issues/new?template=elected_issue_template.md) and fill out the form
+2. Add a title in the form [YOUR NAME] Elected Position Application
+3. Label it a elected position using the Labels tag on the right side
+4. Submit!
 
 ### Know when the next Plotting Session will be?
+I don't know - I'm not your secretary. Check the slack or [BIFFUD Calendar](https://calendar.google.com/calendar/embed?src=2i1b09fb2hquvsin3jkiljprc8%40group.calendar.google.com&mode=agenda). It may or may not be right.
 
 ### Submit a new poem?
+[Create a new file](https://github.com/BadIdeaFactory/corporate/tree/master/poems) in poems. Wait for mockery or praise or most likely no response.
 
 ### Create a new contract with someone?
+Hire a lawyer? Or:
+1. [Create an issue](https://github.com/BadIdeaFactory/corporate/issues/new?template=contract_issue_template.md) and fill out the form
+2. Add a title in the form [Company or Person NAME] Contract Application
+3. Label it a contract using the Labels tag on the right side
+4. Submit! And send it to them for their review, probably
 
 ### View the next meeting's agenda?
+It should be in the [master agenda](https://github.com/BadIdeaFactory/corporate/tree/master/records/agendas) but it probably isn't (yet). Check [order agenda](https://github.com/BadIdeaFactory/corporate/tree/order/records/agendas)
 
 ### Add something to the next meeting's agenda?
+There will probably be a template for this at some point but for now I recommend whining loudly in the #biffud-corporate slack
 
-### View meting minutes?
+### View meeting minutes?
+It should be in the [master minutes](https://github.com/BadIdeaFactory/corporate/tree/master/records/minutes) but it probably isn't (yet). Check [order minutes](https://github.com/BadIdeaFactory/corporate/tree/master/records/minutes)
 
 ### Request a paid expense?
+1. [Create an issue](https://github.com/BadIdeaFactory/corporate/issues/new) and input the basic information, including the project, request reason, cost, etc
+2. Add a title in the form [Project] Expense Request
+3. Label it a expense request using the Labels tag on the right side
+4. Submit!
 
 ### Make a modification to a project budget?
 
 ## How do I (Overmind)...
-### Publish meeting agendas?
+Use the [Tome of Knowledge: Overmind](https://github.com/BadIdeaFactory/corporate/wiki/Tome-of-Knowledge:-Overmind)
 
-## How do I (Keeper of Lore)
-### Submit new meeting minutes?
+## How do I (Keeper of Lore)...
+Use the [Tome of Knowledge: Keeper of Lore](https://github.com/BadIdeaFactory/corporate/wiki/Tome-of-Knowledge:-Keeper-of-Lore)
 
 ## How do I (Beastmaster)...
-### Publish information about project resources?
+Use the [Tome of Knowledge: Beastmaster](https://github.com/BadIdeaFactory/corporate/wiki/Tome-of-Knowledge:-Beastmaster)
