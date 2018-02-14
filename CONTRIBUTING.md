@@ -125,6 +125,19 @@ us who wrote it, if that isn't just you.  If the code was written for
 an employer, tell us that too.  Tell us what license applies to the
 code, especially if it differs from the project's Apache License, Version 2.0.
 
+### Developer's Certificate of Origin 1.1
+
+By making a contribution to this project, I certify that:
+
+(a) The contribution was created in whole or in part by me and I have the right to submit it under the open source license indicated in the file; or
+
+(b) The contribution is based upon previous work that, to the best of my knowledge, is covered under an appropriate open source license and I have the right under that license to
+submit that work with modifications, whether created in whole or in part by me, under the same open source license (unless I am permitted to submit under a different license), as Indicated in the file; or
+
+(c) The contribution was provided directly to me by some other person who certified (a), (b) or (c) and I have not modified it.
+
+(d) I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
+
 ### Elections
 People running for a position should commit an application (found at [applications/elections/general_candidate.md](applications/elections/general_candidate.md)) to the `records/elections/candidates/[date]/[lastname]_[firstname].md`
 
@@ -132,6 +145,7 @@ As described in operating.md, the Issue must be opened 24 hours before the elect
 
 ## How do I (general) ...
 ### Apply to add a project to BIFFUD?
+TL;DR: Create an issue, under corporate label it project application
 
 ### Apply to be a Corporate Overlord?
 

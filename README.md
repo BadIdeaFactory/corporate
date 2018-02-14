@@ -1,7 +1,7 @@
 BIFFUD Corporate
 ===================================================================
 
-Current corporate status:  ![Build status](https://travis-ci.org/OpenTechStrategies/psm.svg?branch=master)
+Current corporate status:  ![Build status](https://travis-ci.org/BadIdeaFactory/corporate.svg?branch=master)
 
 Contents:
 
