@@ -7,3 +7,5 @@
 "Live-tweeting my labor is the worst idea this company has had" - Kate
 
 "I feel a good half of BIFFUD is speaking in a v amusing patois in which I cannot always separate fact from fiction" - Justin
+
+"In some ways, we are above all else a lawyer employment program" - Matt
