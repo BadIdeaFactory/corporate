@@ -1,6 +1,6 @@
 # BIFFUD PROFESSIONAL SERVICES AGREEMENT
 
-This Professional Services Agreement (the "Agreement") is made and entered into as of <non ambigious date>, ("Effective Date"), by and between Bad Idea Factory Limited Liability Company, ("Company"), and `<name of contractor>` ("Contractor").
+This Professional Services Agreement (the "Agreement") is made and entered into as of `<non ambigious date>`, ("Effective Date"), by and between Bad Idea Factory Limited Liability Company, ("Company"), and `<name of contractor>` ("Contractor").
 Upon the following terms and conditions of this Agreement, Company desires to retain Contractor to perform the following:
 
 ## 1 Services and Payment.
