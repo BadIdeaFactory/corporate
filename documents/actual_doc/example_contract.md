@@ -54,11 +54,11 @@ _________________________________|_________________________________
 ---|---
 (Contractor)|(Company)
 |
-<contractor name> | Daniel Schultz (Overmind)
+`<contractor name>` | Daniel Schultz (Overmind)
 |
-<contractor address 1> | 239 Glenwood Rd.
+`<contractor address 1>` | 239 Glenwood Rd.
 |
-<contractor address 2> | Elkins Park, PA, 19027
+`<contractor address 2>` | Elkins Park, PA, 19027
 
 
 # Exhibit A: Scope of Work
@@ -66,11 +66,11 @@ _________________________________|_________________________________
 
 ## 1 Services
 
-<description of the services to be provided>
+`<description of the services to be provided>`
 
-The work has a target delivery of <unambigious delivery date>.
+The work has a target delivery of `<unambigious delivery date>`.
 
 ## 2 Compensation
 
-<compensation amount>
+`<compensation amount>`
 
