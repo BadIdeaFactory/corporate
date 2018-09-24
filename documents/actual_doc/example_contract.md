@@ -66,10 +66,7 @@ _________________________________|_________________________________
 
 ## 1 Services
 
-Design and UX consultation and implementation for the Glorious Contextubot project.  Specifically:
-
-- Revision of the core CBot user experience and design.
-- An initial color scheme and "identity" for the tools.
+<description of the services to be provided>
 
 The work has a target delivery of <unambigious delivery date>.
 
