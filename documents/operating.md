@@ -254,11 +254,6 @@ Third parties can give money to BIFFUD as a non-deductible donation or grant.
 Money donated in this way will be allocated according to the terms agreed upon by the Overmind, Treasure Goblin, and the third party.  Donations do not come
 with any expectation of ownership of BIFFUD.
 
-### Organizational Resources
-The Overmind may submit budget requests to the Hive Mind for resources
-that will be used by BIFFUD as an organization.  For example, for licenses,
-services, fonts, La Croix, or other assets that require cash money.
-
 ### Project Resources
 The Hive Mind is responsible for allocating financial support to Projects.
 Project owners must select a single person to be the project's "Comptroller" who is responsible for approving any invoices associated with a project and working with the Beastmaster and Treasure Goblin to receive access to centralized services or financial reimbursement, depending on the nature of the allocation.
@@ -295,13 +290,35 @@ in proportion of their prorated ownership percentage.  For example, if a Corpora
 
 4. 20% of the Spoils of War shall be added to the company coffers.
 
-### Compensation
-Any compensation paid to individuals working on a project must be associated with a contract that has either been approved by both the Treasure Goblin and the Overmind.
+### Project Compensation and Contracts
+Any compensation paid to individuals working on a project must be associated with a contract that has been approved by the comptroller of that project, and signed by the Overmind.
 
-### Expenses
-Members and Corporate Overlords may receive reimbursement for expenses associated with a project through the processes outlined somewhere in this document (you find it).
+### Project Resources
+Project comptrollers have wide control over how the money associated with their projects can be spent.  It is their responsibility to communicate approved expenses to the Treasure Goblin so that those expenses can be paid.
 
-One-time expenses under $100.00 may be approved by the Treasure Goblin at any time. All other expenses must be approved by Corporate Overlords during a Plotting Session as described in Section 5.
+Licenses and assets obtained through a given project are property of the company, but the project owner shall be guaranteed as much use of it as needed (so long as they are the ones paying for it). Comptrollers are urged to try to find assets that can be used by all BIFFUD projects.
+
+For example: if a comptroller purchased a web font to be rendered 50,000 times in total, that font should not be used in another BIFFUD project without explicit permission from the funding comptroller.  On the other hand if a license was purchased for a reusable asset (e.g. a license to premium emoji) those assets could be used by any project.
+
+Comptrollers may choose to use their budget to pay for additional seats on existing corporate systems (e.g. email, password management, etc.)
+
+### Budget Requests
+Members and Corporate Overlords may request the allocation of general operating funds for specific company or project expenses.  These allocation requests can be approved by the Hive Mind by voting during a plotting session (please see Governing Process section for details of voting).
+
+Budget requests must include:
+
+1. A specific amount.
+2. A specific date by which the funds must be spent.
+3. A description of how we know the "purchase" has been made.
+
+If no specific date is set in the budget request, the funds shall be deallocated and returned to the general operating budget at the end of the fiscal year.
+
+The Overmind shall make the determination if a purchase has been made, based on the description and/or its infinite wisdom as Overmind.  Once the purpose of a fund allocation has been achieved any remaining funds shall be returned to the general operating budget.
+
+### Petty Cash Fund
+One-time expenses under $100.00 may be approved and taken out of the corporate petty cash fund by the Treasure Goblin at any time, assuming the corporate petty cash fund has not been irresponsibly depleted. The Hive Mind must allocate a budget to the petty cash fund; it may replenish the petty cash fund throughout the year.
+
+Allocations to the petty cash fund are returned to the general operating budget at the first plotting session of each fiscal year.  PRO TIP: This means it would be a good idea to allocate money to the petty cash fund at the first plotting session of each fiscal year.
 
 ### Company Canoe
 During the final Plotting Session of each fiscal year the Corporate Overlords must consider a vote on the purchase of a Company canoe, to be named and labeled the "BIFS BIFFUD Canoe".  If ever approved, the Corporate Overlords must update this agreement with a record of the achieved milestone as well as the identification of a new capitalistic goal and a new name.
@@ -388,9 +405,9 @@ The GitHub processes for each decision are outlined in CONTRIBUTING.md and those
 
 - **Changing other sections of `operating.md`:** Plotting Session (needs Strong Consensus).
 
-- **Approving expenses (Preliminary):** GitHub (needs Majority). Preliminary approval of expenses above $100 will allow the Treasure Goblin to release preliminarily approved funds at their discretion within the bounds of the approved expense timeline.  Note: the Treasure Goblin cannot approve their own expenses.
+- **Allocating general operating funds (Preliminary):** GitHub (needs Majority). Preliminary approval of expenses above $100 will allow the Treasure Goblin to release preliminarily approved funds at their discretion within the bounds of the approved expense timeline.  Note: the Treasure Goblin cannot approve their own expenses.
 
-- **Approving expenses:** Plotting Session (needs Strong Consensus). Upon approval the Treasure Goblin must release approved funds within the bounds of the approved expense timeline or the approval is voided.
+- **Allocating general operating funds:** Plotting Session (needs Strong Consensus). Upon approval the Treasure Goblin must release approved funds within the bounds of the approved expense timeline or the approval is voided.
 
 - **Canceling tax reimbursement:** Plotting Session (needs Strong Consensus).  This vote indicates that the tax reimbursement to Corporate Overlords for company profits will not be distributed for the current fiscal year.
 
@@ -420,8 +437,8 @@ Here's a summary table:
 | - overlord        | Strong Consensus   | Plotting Ssn |
 | ~ section 0,1     | Complete Consensus | Plotting Ssn |
 | ~ section X       | Strong Consensus   | Plotting Ssn |
-| + expenses (plm.) | Majority           | GitHub       |
-| + expenses        | Strong Consensus   | Plotting Ssn |
+| + plm. allocation | Majority           | GitHub       |
+| + allocation      | Strong Consensus   | Plotting Ssn |
 | - taxes           | Strong Consensus   | Plotting Ssn |
 | + capital         | Complete Consensus | Plotting Ssn |
 | + disbursement    | Strong Consensus   | Plotting Ssn |
