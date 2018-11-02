@@ -238,14 +238,6 @@ The Hive Mind has the ability to transfer Intellectual Property between BIFFUD a
 ---------------------------------------------------------------------
 SECTION 4: 💵💵💵 MONEY 💵💵💵
 ---------------------------------------------------------------------
-- [x] Capital contributions
-- [x] Allocating resources to projects
-- [x] Distributing profits
-- [x] Compensation
-- [x] Expenses
-- [x] Taxes
-- [x] Company canoe
-
 
 ### Capital Contributions
 Corporate Overlords must contribute a $300 initial capital contribution
@@ -255,7 +247,7 @@ The Hive Mind can vote to increase the required capital contribution number,
 as described in Section 5. Contribution increases are retroactive and Corporate
 Overlords have three months to cough up the extra dough.
 
-Failure to contribute in a timely manner will result in revocation of Corporate Overlord status.
+Failure to contribute in a timely manner shall result in revocation of Corporate Overlord status.
 
 ### Third Party Contributions
 Third parties can give money to BIFFUD as a non-deductible donation or grant.
@@ -272,6 +264,13 @@ The Hive Mind is responsible for allocating financial support to Projects.
 Project owners must select a single person to be the project's "Comptroller" who is responsible for approving any invoices associated with a project and working with the Beastmaster and Treasure Goblin to receive access to centralized services or financial reimbursement, depending on the nature of the allocation.
 
 Invoices that are not approved by a project's Comptroller will not be compensated unless they are explicitly approved by the Treasure Goblin.
+
+### BIFFUD Tithe
+2% of the gross income for any BIFFUD project shall be retained by the company and considered general operating funds.  It's really the least you could do.  In addition, 0.4% of the gross income for any BIFFUD effort (corporate or project based) shall be set aside into our "Grown Up Pants" fund in order to pay local business privelege taxes.
+
+This tithe applies to money earned through sales, contract agreements, donations, and any other way that cash could be given to a project.  Project owners are welcome to contribute more than the 2% if they are willing and able.
+
+For example: Plorthank, the newest Corporate Overlord, has secured a $100,000 grant for a bad idea involving holograms.  $2,000 (2%) of that grant will be retained by the BIFFUD corporation and placed into their General Operating fund, $400 (0.4%) of that grant will be set aside to pay for local taxes, and $97,600 (97.6%) of the grant will be allocated to the hologram project.
 
 ### Distributing Profits
 Profits are calculated at the end of the fiscal year (December 31st).  If by
