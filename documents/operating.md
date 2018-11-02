@@ -81,7 +81,7 @@ SECTION 2: 🤝🤝🤝 Partnership 🤝🤝🤝
 
 2. **Members:** Members may maintain ownership stake in "**Member Owned Projects**". Any sentient entity with ownership over a BIFFUD Project must also be a BIFFUD member unless they are Corporate Overlords.  Members are entitled to attend Plotting Sessions.
 
-3. **Minions:** Minions are contributing participants in BIFFUD Projects. They might contribute via code, cash, or expertise. They are entitled to attend Plotting Sessions. Minions do not retain any ownership rights unless specified in a project's Ownership Agreement.
+3. **Accomplices:** Accomplices are contributing participants in BIFFUD Projects. They might contribute via code, cash, or expertise. They are entitled to attend Plotting Sessions. Accomplices do not retain any ownership rights unless specified in a project's Ownership Agreement.
 
 ### Adding Corporate Overlords
 Although previously thought impossible, an ancient ritual found buried in the ruins of Lawyer Cave describes the process of creating new Corporate Overlords.
@@ -125,11 +125,13 @@ Anybody with ownership over a BIFFUD Project is considered a BIFFUD Member.  Mem
 ### Removing Members
 Members may be removed from the organization by the Beastmaster when they are no longer associated with any BIFFUD projects.
 
-### Adding Minions
-Anybody with an accepted Pull Request in a BIFFUD project is automatically considered a Minion.  Before a Pull Request can be approved, the contributor must submit a signed Contributor License Agreement found in `/documents/minion_agreement.md`.
+### Adding Accomplices
+Anybody with an accepted Pull Request in a BIFFUD project is automatically considered an Accomplice.  Before a Pull Request can be approved, the contributor must submit a signed Contributor License Agreement found in `/documents/accomplice_agreement.md`.
 
-### Removing Minions
-Minions lose their status automatically one year after their most recent contribution to a BIFFUD project.
+Project owners can also indicate who their accomplices are, even if they don't open pull requests (there are many ways to contribute to a project that doesn't involve code).
+
+### Removing Accomplices
+Accomplices can be removed by the beastmaster if it decides that is what is best.
 
 ### Corporate Overlord Responsibilities
 Bad Idea Factory is a Limited Liability Corporation, which means that partnership can't _just_ be about the spirit or the lulz -- partners have legal responsibilities, ownership, and control over the Company direction.
@@ -148,8 +150,8 @@ Corporate Overlords are expected to:
 ### Member Responsibilities
 Members hold no responsibilities at the corporate level of BIFFUD.  They may have responsibilities outlined in their project-level agreements.
 
-### Minion Responsibilities
-Minions hold no responsibilities at the corporate level of BIFFUD.
+### Accomplice Responsibilities
+Accomplices hold no responsibilities at the corporate level of BIFFUD.
 
 ### Elected Roles
 In addition to base expectations, the following positions are to be held by Corporate Overlords.  Details of the election process are provided in Section 5.
@@ -179,7 +181,7 @@ SECTION 3: 🤔🤔🤔 Projects 🤔🤔🤔
 ---------------------------------------------------------------------
 
 ### BIFFUD Projects
-BIFFUD exists to support the creation of projects.  These projects are approved by the Corporate Overlords, owned and maintained by Members, and built by Minions.
+BIFFUD exists to support the creation of projects.  These projects are approved by the Corporate Overlords, owned and maintained by Members, and built by Accomplices.
 
 ### Ownership Contracts
 All "**Owners**"" of a project must be Members, and the percentages and specific terms of ownership must be coordinated by the Owners as part of the project's induction into the Company in the form of an Ownership Contract.
