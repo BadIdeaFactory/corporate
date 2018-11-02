@@ -201,6 +201,8 @@ Resources required to complete or support a project can come from several differ
 
 4. **Profit Reinvestment.** At the end of the fiscal year a project may be allocated funds based on profit earned.  These funds can be distributed among owners or re-invested into the project.
 
+5. **Raw Capitalism.** Apparently people think it's a good idea to hire a company called Bad Idea Factory. We're as surprised as you. Projects that bring in revenue in return for services are bound by the same rules as other projects in terms of how their money can be allocated.
+
 ### Disputes Between Project Owners
 If project owners disagree, the Beastmaster will attempt to address the disagreement. If the Beastmaster fails to create harmony, the Beastmaster proposes a solution and if either the Undermind or Overmind approve it, the Owners in conflict must either accept that solution or mutually agree on an alternative.
 
@@ -223,6 +225,22 @@ Anybody can build anything they want at any time, but in order for something to 
 5. If the project were a character in Dungeons and Dragons, what would its alignment be?
 
 The BIFFUD brand deserves compelling answers to questions one through three. Projects should be realistic to implement, and should be "Chaotic Good", "Neutral Good", or "Chaotic Neutral".  All of these data points simply serve as guidance. The ultimate decision of what projects should be adopted falls on the Corporate Overlords.
+
+### The BIFFUD Executive Branch
+Projects that are funded by third parties through grants or as a product for hire do not need to go through the same approval process. Instead, they must be approved by the Overmind, who is expected to consult with the Hive Mind and the rest of Corporate Overlords holding elected positions.
+
+Corporate Overlords may apply for grants and seek out contracts with third parties so long as these efforts have been approved by the Overmind.
+
+### Supporting BIFFUD Projects
+When a new BIFFUD project is approved we want it to actually get supported and built.  This means that if it is not already somehow funded, that it shall receive a $300 petty cash fund.
+
+Projects shall specify a timeline by which the project will be implemented.  Once that date has passed, the Treasure Goblin will reclaim whatever remains of the petty cash fund.
+
+Money allocated to a project is otherwise the same as any corporate allocation of funds (e.g. it is ultimately owed back to the corporation in the event a profit is earned, the comptroller determines how it should be spent, etc.)
+
+Please note that this SHOULD NOT PREVENT ANYBODY FROM SUBMITTING SUPERFLOUS PROJECT APPLICATIONS. Please submit any and all bad ideas for approval even if you don't think actually they should be funded.
+
+This dictation of petty cash does not apply to projects that were approved before December 1st, 2018.
 
 ### Intellectual Property/Internet Protocol
 The following numbered clauses apply to all BIFFUD projects unless explicitly approved otherwise by the Corporate Overlords during project approval or at a later date during a Plotting Session.
