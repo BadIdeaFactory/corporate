@@ -319,7 +319,7 @@ Any compensation paid to individuals working on a project must be associated wit
 ### Project Resources
 Project comptrollers have wide control over how the money associated with their projects can be spent.  It is their responsibility to communicate approved expenses to the Treasure Goblin so that those expenses can be paid.
 
-Licenses and assets obtained through a given project are property of the company, but the project owner shall be guaranteed as much use of it as needed (so long as they are the ones paying for it). Comptrollers are urged to try to find assets that can be used by all BIFFUD projects.
+Licenses and assets obtained through a given project are property of the company, but the project owner shall be guaranteed as much use of it as needed (so long as project funds were used to pay for it). Comptrollers are urged to try to find assets that can be used by all BIFFUD projects.
 
 For example: if a comptroller purchased a web font to be rendered 50,000 times in total, that font should not be used in another BIFFUD project without explicit permission from the funding comptroller.  On the other hand if a license was purchased for a reusable asset (e.g. a license to premium emoji) those assets could be used by any project.
 
