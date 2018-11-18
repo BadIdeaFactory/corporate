@@ -285,7 +285,7 @@ This tithe applies to money earned through sales, contract agreements, donations
 
 For example: Plorthank, the newest Corporate Overlord, has secured a $100,000 grant for a bad idea involving holograms.  $2,000 (2%) of that grant will be retained by the BIFFUD corporation and placed into their General Operating fund, $400 (0.4%) of that grant will be set aside to pay for local taxes, and $97,600 (97.6%) of the grant will be allocated to the hologram project.
 
-### Distributing Profits
+### Allocating Profits
 Profits are calculated at the end of the fiscal year (December 31st).  If by
 some miracle there are profits on a given year, the following formula will dictate their distribution:
 
@@ -293,9 +293,9 @@ some miracle there are profits on a given year, the following formula will dicta
 taxes on that profit.  Corporate Overlords may vote to prevent this distribution, as described in Section 5.  Whatever is left shall be called
 the Spoils of War.
 
-2. 60% of the Spoils of War will be distributed to the projects in proportion
+2. 80% of the Spoils of War will be distributed to the projects in proportion
 to the project-level profit contribution.  For example, if a project earned
-70% of BIFFUD's total profit, that Project would be allocated 70% of the 60% of
+70% of BIFFUD's total profit, that Project would be allocated 70% of the 80% of
 the Spoils of War.
 
 If a project has a profit allocation and the project had been allocated a "loan" from BIFFUD, that project's allocated profit is subtracted from the outstanding balance.
@@ -303,10 +303,13 @@ If a project has a profit allocation and the project had been allocated a "loan"
 The project owners are paid in proportion to their project ownership
 percentage.
 
-3. 20% of the Spoils of War shall be distributed to the Corporate Overlords
-in proportion of their prorated ownership percentage.  For example, if a Corporate Overlord is only part of the Hive Mind for half of one year, then their prorated ownership percentage would be half that of a full-term Corporate Overlord's ownership percentage.
+3. The remaining 20% of the Spoils of War shall be added to the company coffers.
 
-4. 20% of the Spoils of War shall be added to the company coffers.
+### Distributing Capital
+
+Corporate Overlords may vote at any time to distribute unallocated capital in proportion of their prorated ownership percentage.  For example, if a Corporate Overlord is only part of the Hive Mind for half of one year, then their prorated ownership percentage would be half that of a full-term Corporate Overlord's ownership percentage.
+
+Comptrollers can choose to pay Corporate Overlords as part of their project; payment from projects takes the form of a "guaranteed payment" and is functionally the same as contracted compensation.  It should be associated with a compensation contract.
 
 ### Project Compensation and Contracts
 Any compensation paid to individuals working on a project must be associated with a contract that has been approved by the comptroller of that project, and signed by the Overmind.
