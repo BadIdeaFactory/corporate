@@ -428,7 +428,7 @@ The GitHub processes for each decision are outlined in CONTRIBUTING.md and those
 
 - **Changing other sections of `operating.md`:** Plotting Session (needs Strong Consensus).
 
-- **Allocating general operating funds (Preliminary):** GitHub (needs Majority). Preliminary approval of expenses above $100 will allow the Treasure Goblin to release preliminarily approved funds at their discretion within the bounds of the approved expense timeline.  Note: the Treasure Goblin cannot approve their own expenses.
+- **Allocating general operating funds (Preliminary):** GitHub (needs Majority). Preliminary approval of expenses above $100 but below $1,000 will allow the Treasure Goblin to release preliminarily approved funds at their discretion within the bounds of the approved expense timeline.  Note: the Treasure Goblin cannot approve their own expenses.
 
 - **Allocating general operating funds:** Plotting Session (needs Strong Consensus). Upon approval the Treasure Goblin must release approved funds within the bounds of the approved expense timeline or the approval is voided.
 
