@@ -279,9 +279,11 @@ Project owners must select a single person to be the project's "Comptroller" who
 Invoices that are not approved by a project's Comptroller will not be compensated unless they are explicitly approved by the Treasure Goblin.
 
 ### BIFFUD Tithe
-2% of the gross income for any BIFFUD project shall be retained by the company and considered general operating funds.  It's really the least you could do.  In addition, 0.4% of the gross income for any BIFFUD effort (corporate or project based) shall be set aside into our "Grown Up Pants" fund in order to pay local business privelege taxes.
+2% of the gross income for any BIFFUD project shall be retained by the company and considered general operating funds.  It's really the least you could do.  In addition, 0.4% of the gross income for any BIFFUD effort (corporate or project based) shall be set aside into our "Grown Up Pants" fund in order to pay local business privilege taxes.
 
 This tithe applies to money earned through sales, contract agreements, donations, and any other way that cash could be given to a project.  Project owners are welcome to contribute more than the 2% if they are willing and able.
+
+In some cases funders are not comfortable paying for this kind of general operating overhead; in these cases the Hive Mind may vote at any time to assuage a project of its tithe obligations, as described in the voting section of the bylaws.
 
 For example: Plorthank, the newest Corporate Overlord, has secured a $100,000 grant for a bad idea involving holograms.  $2,000 (2%) of that grant will be retained by the BIFFUD corporation and placed into their General Operating fund, $400 (0.4%) of that grant will be set aside to pay for local taxes, and $97,600 (97.6%) of the grant will be allocated to the hologram project.
 
@@ -436,6 +438,8 @@ The GitHub processes for each decision are outlined in CONTRIBUTING.md and those
 
 - **Creating one-time capital disbursement:** Plotting Session (needs Strong Consensus).  This vote indicates that BIFFUD will disburse capital to Corporate Overlords in proportion to their ownership levels.
 
+- **Removing tithe obligation:** Plotting Session (needs Strong Consensus).  This vote indicates that BIFFUD will not require the 2% tithe from a project (the .4% for taxes still applies).
+
 - **Making modifications to `CONTRIBUTING.md`:** GitHub (needs Apathetic Support).  This vote approves changes to the processes associated with the votes as described in CONTRIBUTING.md
 
 - **Making other modifications to `corporate`:** GitHub (needs Apathetic Support).  This vote approves changes to the structure or organization of the corporate GitHub repository.
@@ -463,6 +467,7 @@ Here's a summary table:
 | - taxes           | Strong Consensus   | Plotting Ssn |
 | + capital         | Complete Consensus | Plotting Ssn |
 | + disbursement    | Strong Consensus   | Plotting Ssn |
+| - tithe           | Strong Consensus   | Plotting Ssn |
 | ~ contributing.md | Majority           | GitHub       |
 | ~ corporate       | Majority           | GitHub       |
 | + minutes         | Apathetic Support  | GitHub       |
