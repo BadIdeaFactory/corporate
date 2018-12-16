@@ -81,7 +81,7 @@ SECTION 2: 🤝🤝🤝 Partnership 🤝🤝🤝
 
 2. **Members:** Members may maintain ownership stake in "**Member Owned Projects**". Any sentient entity with ownership over a BIFFUD Project must also be a BIFFUD member unless they are Corporate Overlords.  Members are entitled to attend Plotting Sessions.
 
-3. **Minions:** Minions are contributing participants in BIFFUD Projects. They might contribute via code, cash, or expertise. They are entitled to attend Plotting Sessions. Minions do not retain any ownership rights unless specified in a project's Ownership Agreement.
+3. **Accomplices:** Accomplices are contributing participants in BIFFUD Projects. They might contribute via code, cash, or expertise. They are entitled to attend Plotting Sessions. Accomplices do not retain any ownership rights unless specified in a project's Ownership Agreement.
 
 ### Adding Corporate Overlords
 Although previously thought impossible, an ancient ritual found buried in the ruins of Lawyer Cave describes the process of creating new Corporate Overlords.
@@ -125,11 +125,13 @@ Anybody with ownership over a BIFFUD Project is considered a BIFFUD Member.  Mem
 ### Removing Members
 Members may be removed from the organization by the Beastmaster when they are no longer associated with any BIFFUD projects.
 
-### Adding Minions
-Anybody with an accepted Pull Request in a BIFFUD project is automatically considered a Minion.  Before a Pull Request can be approved, the contributor must submit a signed Contributor License Agreement found in `/documents/minion_agreement.md`.
+### Adding Accomplices
+Anybody with an accepted Pull Request in a BIFFUD project is automatically considered an Accomplice.  Before a Pull Request can be approved, the contributor must submit a signed Contributor License Agreement found in `/documents/accomplice_agreement.md`.
 
-### Removing Minions
-Minions lose their status automatically one year after their most recent contribution to a BIFFUD project.
+Project owners can also indicate who their accomplices are, even if they don't open pull requests (there are many ways to contribute to a project that doesn't involve code).
+
+### Removing Accomplices
+Accomplices can be removed by the beastmaster if it decides that is what is best.
 
 ### Corporate Overlord Responsibilities
 Bad Idea Factory is a Limited Liability Corporation, which means that partnership can't _just_ be about the spirit or the lulz -- partners have legal responsibilities, ownership, and control over the Company direction.
@@ -148,8 +150,8 @@ Corporate Overlords are expected to:
 ### Member Responsibilities
 Members hold no responsibilities at the corporate level of BIFFUD.  They may have responsibilities outlined in their project-level agreements.
 
-### Minion Responsibilities
-Minions hold no responsibilities at the corporate level of BIFFUD.
+### Accomplice Responsibilities
+Accomplices hold no responsibilities at the corporate level of BIFFUD.
 
 ### Elected Roles
 In addition to base expectations, the following positions are to be held by Corporate Overlords.  Details of the election process are provided in Section 5.
@@ -179,7 +181,7 @@ SECTION 3: 🤔🤔🤔 Projects 🤔🤔🤔
 ---------------------------------------------------------------------
 
 ### BIFFUD Projects
-BIFFUD exists to support the creation of projects.  These projects are approved by the Corporate Overlords, owned and maintained by Members, and built by Minions.
+BIFFUD exists to support the creation of projects.  These projects are approved by the Corporate Overlords, owned and maintained by Members, and built by Accomplices.
 
 ### Ownership Contracts
 All "**Owners**"" of a project must be Members, and the percentages and specific terms of ownership must be coordinated by the Owners as part of the project's induction into the Company in the form of an Ownership Contract.
@@ -198,6 +200,8 @@ Resources required to complete or support a project can come from several differ
 3. **BIFFUD Support.** Includes resources provided by the entire corporation. These resources represent expense and affect profit calculations at the end of the year.
 
 4. **Profit Reinvestment.** At the end of the fiscal year a project may be allocated funds based on profit earned.  These funds can be distributed among owners or re-invested into the project.
+
+5. **Raw Capitalism.** Apparently people think it's a good idea to hire a company called Bad Idea Factory. We're as surprised as you. Projects that bring in revenue in return for services are bound by the same rules as other projects in terms of how their money can be allocated.
 
 ### Disputes Between Project Owners
 If project owners disagree, the Beastmaster will attempt to address the disagreement. If the Beastmaster fails to create harmony, the Beastmaster proposes a solution and if either the Undermind or Overmind approve it, the Owners in conflict must either accept that solution or mutually agree on an alternative.
@@ -222,6 +226,22 @@ Anybody can build anything they want at any time, but in order for something to 
 
 The BIFFUD brand deserves compelling answers to questions one through three. Projects should be realistic to implement, and should be "Chaotic Good", "Neutral Good", or "Chaotic Neutral".  All of these data points simply serve as guidance. The ultimate decision of what projects should be adopted falls on the Corporate Overlords.
 
+### The BIFFUD Executive Branch
+Projects that are funded by third parties through grants or as a product for hire do not need to go through the same approval process. Instead, they must be approved by the Overmind, who is expected to consult with the Hive Mind and the rest of Corporate Overlords holding elected positions.
+
+Corporate Overlords may apply for grants and seek out contracts with third parties so long as these efforts have been approved by the Overmind.
+
+### Supporting BIFFUD Projects
+When a new BIFFUD project is approved we want it to actually get supported and built.  This means that if it is not already somehow funded, that it shall receive a $300 petty cash fund.
+
+Projects shall specify a timeline by which the project will be implemented.  Once that date has passed, the Treasure Goblin will reclaim whatever remains of the petty cash fund.
+
+Money allocated to a project is otherwise the same as any corporate allocation of funds (e.g. it is ultimately owed back to the corporation in the event a profit is earned, the comptroller determines how it should be spent, etc.)
+
+Please note that this SHOULD NOT PREVENT ANYBODY FROM SUBMITTING SUPERFLOUS PROJECT APPLICATIONS. Please submit any and all bad ideas for approval even if you don't think actually they should be funded.
+
+This dictation of petty cash does not apply to projects that were approved before December 1st, 2018.
+
 ### Intellectual Property/Internet Protocol
 The following numbered clauses apply to all BIFFUD projects unless explicitly approved otherwise by the Corporate Overlords during project approval or at a later date during a Plotting Session.
 
@@ -236,14 +256,6 @@ The Hive Mind has the ability to transfer Intellectual Property between BIFFUD a
 ---------------------------------------------------------------------
 SECTION 4: 💵💵💵 MONEY 💵💵💵
 ---------------------------------------------------------------------
-- [x] Capital contributions
-- [x] Allocating resources to projects
-- [x] Distributing profits
-- [x] Compensation
-- [x] Expenses
-- [x] Taxes
-- [x] Company canoe
-
 
 ### Capital Contributions
 Corporate Overlords must contribute a $300 initial capital contribution
@@ -253,17 +265,12 @@ The Hive Mind can vote to increase the required capital contribution number,
 as described in Section 5. Contribution increases are retroactive and Corporate
 Overlords have three months to cough up the extra dough.
 
-Failure to contribute in a timely manner will result in revocation of Corporate Overlord status.
+Failure to contribute in a timely manner shall result in revocation of Corporate Overlord status.
 
 ### Third Party Contributions
 Third parties can give money to BIFFUD as a non-deductible donation or grant.
 Money donated in this way will be allocated according to the terms agreed upon by the Overmind, Treasure Goblin, and the third party.  Donations do not come
 with any expectation of ownership of BIFFUD.
-
-### Organizational Resources
-The Overmind may submit budget requests to the Hive Mind for resources
-that will be used by BIFFUD as an organization.  For example, for licenses,
-services, fonts, La Croix, or other assets that require cash money.
 
 ### Project Resources
 The Hive Mind is responsible for allocating financial support to Projects.
@@ -271,7 +278,16 @@ Project owners must select a single person to be the project's "Comptroller" who
 
 Invoices that are not approved by a project's Comptroller will not be compensated unless they are explicitly approved by the Treasure Goblin.
 
-### Distributing Profits
+### BIFFUD Tithe
+2% of the gross income for any BIFFUD project shall be retained by the company and considered general operating funds.  It's really the least you could do.  In addition, 0.4% of the gross income for any BIFFUD effort (corporate or project based) shall be set aside into our "Grown Up Pants" fund in order to pay local business privilege taxes.
+
+This tithe applies to money earned through sales, contract agreements, donations, and any other way that cash could be given to a project.  Project owners are welcome to contribute more than the 2% if they are willing and able.
+
+In some cases funders are not comfortable paying for this kind of general operating overhead; in these cases the Hive Mind may vote at any time to assuage a project of its tithe obligations, as described in the voting section of the bylaws.
+
+For example: Plorthank, the newest Corporate Overlord, has secured a $100,000 grant for a bad idea involving holograms.  $2,000 (2%) of that grant will be retained by the BIFFUD corporation and placed into their General Operating fund, $400 (0.4%) of that grant will be set aside to pay for local taxes, and $97,600 (97.6%) of the grant will be allocated to the hologram project.
+
+### Allocating Profits
 Profits are calculated at the end of the fiscal year (December 31st).  If by
 some miracle there are profits on a given year, the following formula will dictate their distribution:
 
@@ -279,9 +295,9 @@ some miracle there are profits on a given year, the following formula will dicta
 taxes on that profit.  Corporate Overlords may vote to prevent this distribution, as described in Section 5.  Whatever is left shall be called
 the Spoils of War.
 
-2. 60% of the Spoils of War will be distributed to the projects in proportion
+2. 80% of the Spoils of War will be distributed to the projects in proportion
 to the project-level profit contribution.  For example, if a project earned
-70% of BIFFUD's total profit, that Project would be allocated 70% of the 60% of
+70% of BIFFUD's total profit, that Project would be allocated 70% of the 80% of
 the Spoils of War.
 
 If a project has a profit allocation and the project had been allocated a "loan" from BIFFUD, that project's allocated profit is subtracted from the outstanding balance.
@@ -289,18 +305,43 @@ If a project has a profit allocation and the project had been allocated a "loan"
 The project owners are paid in proportion to their project ownership
 percentage.
 
-3. 20% of the Spoils of War shall be distributed to the Corporate Overlords
-in proportion of their prorated ownership percentage.  For example, if a Corporate Overlord is only part of the Hive Mind for half of one year, then their prorated ownership percentage would be half that of a full-term Corporate Overlord's ownership percentage.
+3. The remaining 20% of the Spoils of War shall be added to the company coffers.
 
-4. 20% of the Spoils of War shall be added to the company coffers.
+### Distributing Capital
 
-### Compensation
-Any compensation paid to individuals working on a project must be associated with a contract that has either been approved by both the Treasure Goblin and the Overmind.
+Corporate Overlords may vote at any time to distribute unallocated capital in proportion of their prorated ownership percentage.  For example, if a Corporate Overlord is only part of the Hive Mind for half of one year, then their prorated ownership percentage would be half that of a full-term Corporate Overlord's ownership percentage.
 
-### Expenses
-Members and Corporate Overlords may receive reimbursement for expenses associated with a project through the processes outlined somewhere in this document (you find it).
+Comptrollers can choose to pay Corporate Overlords as part of their project; payment from projects takes the form of a "guaranteed payment" and is functionally the same as contracted compensation.  It should be associated with a compensation contract.
 
-One-time expenses under $100.00 may be approved by the Treasure Goblin at any time. All other expenses must be approved by Corporate Overlords during a Plotting Session as described in Section 5.
+### Project Compensation and Contracts
+Any compensation paid to individuals working on a project must be associated with a contract that has been approved by the comptroller of that project, and signed by the Overmind.
+
+### Project Resources
+Project comptrollers have wide control over how the money associated with their projects can be spent.  It is their responsibility to communicate approved expenses to the Treasure Goblin so that those expenses can be paid.
+
+Licenses and assets obtained through a given project are property of the company, but the project owner shall be guaranteed as much use of it as needed (so long as project funds were used to pay for it). Comptrollers are urged to try to find assets that can be used by all BIFFUD projects.
+
+For example: if a comptroller purchased a web font to be rendered 50,000 times in total, that font should not be used in another BIFFUD project without explicit permission from the funding comptroller.  On the other hand if a license was purchased for a reusable asset (e.g. a license to premium emoji) those assets could be used by any project.
+
+Comptrollers may choose to use their budget to pay for additional seats on existing corporate systems (e.g. email, password management, etc.)
+
+### Budget Requests
+Members and Corporate Overlords may request the allocation of general operating funds for specific company or project expenses.  These allocation requests can be approved by the Hive Mind by voting during a plotting session (please see Governing Process section for details of voting).
+
+Budget requests must include:
+
+1. A specific amount.
+2. A specific date by which the funds must be spent.
+3. A description of how we know the "purchase" has been made.
+
+If no specific date is set in the budget request, the funds shall be deallocated and returned to the general operating budget at the end of the fiscal year.
+
+The Overmind shall make the determination if a purchase has been made, based on the description and/or its infinite wisdom as Overmind.  Once the purpose of a fund allocation has been achieved any remaining funds shall be returned to the general operating budget.
+
+### Petty Cash Fund
+One-time expenses under $100.00 may be approved and taken out of the corporate petty cash fund by the Treasure Goblin at any time, assuming the corporate petty cash fund has not been irresponsibly depleted. The Hive Mind must allocate a budget to the petty cash fund; it may replenish the petty cash fund throughout the year.
+
+Allocations to the petty cash fund are returned to the general operating budget at the first plotting session of each fiscal year.  PRO TIP: This means it would be a good idea to allocate money to the petty cash fund at the first plotting session of each fiscal year.
 
 ### Company Canoe
 During the final Plotting Session of each fiscal year the Corporate Overlords must consider a vote on the purchase of a Company canoe, to be named and labeled the "BIFS BIFFUD Canoe".  If ever approved, the Corporate Overlords must update this agreement with a record of the achieved milestone as well as the identification of a new capitalistic goal and a new name.
@@ -387,15 +428,17 @@ The GitHub processes for each decision are outlined in CONTRIBUTING.md and those
 
 - **Changing other sections of `operating.md`:** Plotting Session (needs Strong Consensus).
 
-- **Approving expenses (Preliminary):** GitHub (needs Majority). Preliminary approval of expenses above $100 will allow the Treasure Goblin to release preliminarily approved funds at their discretion within the bounds of the approved expense timeline.  Note: the Treasure Goblin cannot approve their own expenses.
+- **Allocating general operating funds (Preliminary):** GitHub (needs Majority). Preliminary approval of expenses above $100 but below $1,000 will allow the Treasure Goblin to release preliminarily approved funds at their discretion within the bounds of the approved expense timeline.  Note: the Treasure Goblin cannot approve their own expenses.
 
-- **Approving expenses:** Plotting Session (needs Strong Consensus). Upon approval the Treasure Goblin must release approved funds within the bounds of the approved expense timeline or the approval is voided.
+- **Allocating general operating funds:** Plotting Session (needs Strong Consensus). Upon approval the Treasure Goblin must release approved funds within the bounds of the approved expense timeline or the approval is voided.
 
 - **Canceling tax reimbursement:** Plotting Session (needs Strong Consensus).  This vote indicates that the tax reimbursement to Corporate Overlords for company profits will not be distributed for the current fiscal year.
 
 - **Soliciting one-time capital contributions:** Plotting Session (needs Complete Consensus).  This vote indicates that the Corporate Overlords will be required to make an additional capital contribution in order to remain Corporate Overlords.
 
 - **Creating one-time capital disbursement:** Plotting Session (needs Strong Consensus).  This vote indicates that BIFFUD will disburse capital to Corporate Overlords in proportion to their ownership levels.
+
+- **Removing tithe obligation:** Plotting Session (needs Strong Consensus).  This vote indicates that BIFFUD will not require the 2% tithe from a project (the .4% for taxes still applies).
 
 - **Making modifications to `CONTRIBUTING.md`:** GitHub (needs Apathetic Support).  This vote approves changes to the processes associated with the votes as described in CONTRIBUTING.md
 
@@ -419,11 +462,12 @@ Here's a summary table:
 | - overlord        | Strong Consensus   | Plotting Ssn |
 | ~ section 0,1     | Complete Consensus | Plotting Ssn |
 | ~ section X       | Strong Consensus   | Plotting Ssn |
-| + expenses (plm.) | Majority           | GitHub       |
-| + expenses        | Strong Consensus   | Plotting Ssn |
+| + plm. allocation | Majority           | GitHub       |
+| + allocation      | Strong Consensus   | Plotting Ssn |
 | - taxes           | Strong Consensus   | Plotting Ssn |
 | + capital         | Complete Consensus | Plotting Ssn |
 | + disbursement    | Strong Consensus   | Plotting Ssn |
+| - tithe           | Strong Consensus   | Plotting Ssn |
 | ~ contributing.md | Majority           | GitHub       |
 | ~ corporate       | Majority           | GitHub       |
 | + minutes         | Apathetic Support  | GitHub       |
