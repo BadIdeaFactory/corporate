@@ -245,7 +245,7 @@ This dictation of petty cash does not apply to projects that were approved befor
 ### Intellectual Property/Internet Protocol
 The following numbered clauses apply to all BIFFUD projects unless explicitly approved otherwise by the Corporate Overlords during project approval or at a later date during a Plotting Session.
 
-1. Everything contributed to a BIFFUD project must be developed in the open and licensed under the Apache License, Version 2.0. A Project may use another license by approval of Majority of the Corporate Overlords (for example, if another license is necessary for the purposes of fulfilling third party funding requirements, or if a copyleft license better suits the goals of the Project).
+1. Everything contributed to a BIFFUD project must be developed in the open and licensed under the Apache License, Version 2.0. If a Project has a license restriction imposed by a third party, the license shall be deemed acceptable without further approval if the license is a GPL-compatible license, as defined by the [Free Software Foundation's list of GPL-Compatible Free Software Licenses](https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses). In all other situations, a Project may use another license by approval of Majority of the Corporate Overlords.
 
 2. All BIFFUD projects must have the language written in `documents/federated_contributing.md` inserted into a CONTRIBUTING.md file at the root level of the project unless explicitly approved otherwise by the Corporate Overlords during project approval or at a later date during a Plotting Session.
 
