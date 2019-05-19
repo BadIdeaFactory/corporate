@@ -1,6 +1,6 @@
 # BIFFUD Officers
 
-## Beast Master
+## Beastmaster
 
 **The Beastmaster** is all about helping unlock the potential of our projects. This means helping them start, keep moving, share their stories, obtain resources, and contribute back to BIFFUD.
 
