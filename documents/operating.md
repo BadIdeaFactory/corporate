@@ -17,7 +17,9 @@ SECTION 0: 📓📓📓 Definitions 📓📓📓
 
 * **Bad Idea Factory Limited Liability Company ("Company")** is a Limited Liability Company domiciled in Pennsylvania.
 * Company may also be referred to as "**Bad Idea Factory**" or "**BIFFUD**".
-* "**Corporate Overlord**" shall mean an "owner" of the Company under Pennsylvania state law.
+* "**Corporate Overlord With Status (COWS)**" shall mean an "owner" of the Company under Pennsylvania state law.
+* "**Corporate Overlord In Nominality and Spirit (COINS)**" shall mean a person who is not technically a legal owner of the Company, but the COWS opt to give internal rights to (e.g. profit sharing, voting).
+* "**Corporate Overlord**" shall mean anybody who is either COWS or COINS.
 * "**Associate**" shall mean any person legally associated with the Company through contract or ownership.
 * The "**Hive Mind**" shall mean the "board of directors" of the Company, as defined by Pennsylvania state law. The Hive Mind shall consist of all current Corporate Overlords of the Company.
 * "**Plotting Session**" shall mean a "meeting of the board of directors" of the Company, as defined by Pennsylvania state law.
@@ -41,6 +43,7 @@ BIFFUD shall be dissolved as a Limited Liability Company if any of the following
 2. The Hive Mind fails to hold a single meeting with quorum for a period of one consecutive year.
 3. Everyone dies/there are no more Corporate Overlords.
 4. If all Corporate Overlords identify as cis-hetero white men.
+5. There are now COWS left in the ranks of the Corporate Overlords.
 
 ### Continuance of Company
 If a Corporate Overlord leaves BIFFUD, dies, or uploads their brain to the cloud, the ownership of the remaining Corporate Overlords will then be evenly distributed (e.g., if four Corporate Overlords remain, each will own 1/4 of BIFFUD).
