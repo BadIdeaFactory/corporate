@@ -281,6 +281,8 @@ Invoices that are not approved by a project's Comptroller will not be compensate
 ### BIFFUD Tithe
 2% of the gross income for any BIFFUD project shall be retained by the company and considered general operating funds.  It's really the least you could do.  In addition, 0.4% of the gross income for any BIFFUD effort (corporate or project based) shall be set aside into our "Grown Up Pants" fund in order to pay local business privilege taxes.
 
+In addition to these fees, the Hive Mind should specify an additional "overhead" tax percentage to be retained by the company and added to the operating expense account.  Updating the universal or project specific overhead percentage requires a vote of the Hive Mind as described in the voting section.
+
 This tithe applies to money earned through sales, contract agreements, donations, and any other way that cash could be given to a project.  Project owners are welcome to contribute more than the 2% if they are willing and able.
 
 In some cases funders are not comfortable paying for this kind of general operating overhead; in these cases the Hive Mind may vote at any time to assuage a project of its tithe obligations, as described in the voting section of the bylaws.
@@ -342,6 +344,11 @@ The Overmind shall make the determination if a purchase has been made, based on 
 One-time expenses under $100.00 may be approved and taken out of the corporate petty cash fund by the Treasure Goblin at any time, assuming the corporate petty cash fund has not been irresponsibly depleted. The Hive Mind must allocate a budget to the petty cash fund; it may replenish the petty cash fund throughout the year.
 
 Allocations to the petty cash fund are returned to the general operating budget at the first plotting session of each fiscal year.  PRO TIP: This means it would be a good idea to allocate money to the petty cash fund at the first plotting session of each fiscal year.
+
+### Operating Expense Budget
+The BIFFUD overhead tax directly funds an "Operating Expense" account.  This account should be used to pay for necessary expenses accrued in order to run the business.  For example: book keeping, accounting, tax advisory, bank fees, and other core support mechanisms deemend reasonable at the discretion of the Overmind.
+
+All Corporate Overlords are entitled to ask around about what this money is being spent on, but spending this money does not require a formal vote.
 
 ### Company Canoe
 During the final Plotting Session of each fiscal year the Corporate Overlords must consider a vote on the purchase of a Company canoe, to be named and labeled the "BIFS BIFFUD Canoe".  If ever approved, the Corporate Overlords must update this agreement with a record of the achieved milestone as well as the identification of a new capitalistic goal and a new name.
@@ -437,6 +444,10 @@ The GitHub processes for each decision are outlined in CONTRIBUTING.md and those
 - **Soliciting one-time capital contributions:** Plotting Session (needs Complete Consensus).  This vote indicates that the Corporate Overlords will be required to make an additional capital contribution in order to remain Corporate Overlords.
 
 - **Creating one-time capital disbursement:** Plotting Session (needs Strong Consensus).  This vote indicates that BIFFUD will disburse capital to Corporate Overlords in proportion to their ownership levels.
+
+- **Adjusting the univeral overhead obligation:** Plotting Session (needs Simple Majority).  This vote updates the amount of overhead collected from funded projects' gross income.  Updates apply to all active projects unless an explicit exception is voted on.
+
+- **Adjusting project-specific overhead obligation:** Plotting Session (needs Simple Majority).  This vote indicates that BIFFUD will adjust the overhead collected from a specific funded project's gross income.
 
 - **Removing tithe obligation:** Plotting Session (needs Strong Consensus).  This vote indicates that BIFFUD will not require the 2% tithe from a project (the .4% for taxes still applies).
 
