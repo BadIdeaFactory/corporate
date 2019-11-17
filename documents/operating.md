@@ -519,6 +519,17 @@ Here's a summary table:
 | ~ corporate       | Majority           | GitHub       |
 | + minutes         | Apathetic Support  | GitHub       |
 
+### Remote Voting
+Calls to vote made during a plotting session can be voted on remotely by Corporate Overlords.  This is because time is not linear, it is only perceived linearly, therefore all moments of time are actually identical.
+
+Only Corporate Overlords with an active (non hibernating) status at the time of the initial plotting session are able to vote, and the totals needed for a given vote are based on the active corporate overlords at that time.
+
+The vote shall remain open until at least one of the following conditions holds:
+
+1. Enough votes are cast as to reach a verdict.
+2. The sitting Overmind determines that the vote should be closed.
+
+The remote voting mechanism shall be determined by the Overmind.
 
 ### Elections
 Elected terms end on April 1st and Elections for those seats are held during the Plotting Session held in March. Candidates must submit their application for a position 24 hours before the Plotting Session is scheduled to begin, using the process outlined in CONTRIBUTING.md.
