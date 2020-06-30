@@ -231,6 +231,9 @@ Projects that are funded by third parties through grants or as a product for hir
 
 Corporate Overlords may apply for grants and seek out contracts with third parties so long as these efforts have been approved by the Overmind.
 
+### The BIFFUD Operating Branch
+The BIFFUD Operating Branch is the collective set of processes (and people) associated with corporate operations.  This includes things like invoicing, contracting, purachases, expenses, and filing taxes.  The nature and explicit responsibilities of the BIFFUD Operating Branch is determined by the Overmind with guidance from the Hive Mind.
+
 ### Supporting BIFFUD Projects
 When a new BIFFUD project is approved we want it to actually get supported and built.  This means that if it is not already somehow funded, that it shall receive a $300 petty cash fund.
 
@@ -281,49 +284,79 @@ Invoices that are not approved by a project's Comptroller will not be compensate
 ### BIFFUD Tithe
 2% of the gross income for any BIFFUD project shall be retained by the company and considered general operating funds.  It's really the least you could do.  In addition, 0.4% of the gross income for any BIFFUD effort (corporate or project based) shall be set aside into our "Grown Up Pants" fund in order to pay local business privilege taxes.
 
-In addition to these fees, the Hive Mind should specify an additional "overhead" tax percentage to be retained by the company and added to the operating expense account.  Updating the universal or project specific overhead percentage requires a vote of the Hive Mind as described in the voting section.
+In addition to these fees, the Hive Mind should specify an additional "overhead" percentage to be retained by the company and added to the operating expense account.  Updating the universal or project specific overhead percentage requires a vote of the Hive Mind as described in the voting section.
 
-This tithe applies to money earned through sales, contract agreements, donations, and any other way that cash could be given to a project.  Project owners are welcome to contribute more than the 2% if they are willing and able.
+The tithe + overhead applies to money earned through sales, contract agreements, donations, and any other way that cash could be given to a project from an external source.  Project owners are welcome to contribute more than the 2% if they are willing and able.
 
-In some cases funders are not comfortable paying for this kind of general operating overhead; in these cases the Hive Mind may vote at any time to assuage a project of its tithe obligations, as described in the voting section of the bylaws.
+In some cases funders are not comfortable paying for this kind of general operating overhead; in these cases the Hive Mind may vote at any time to assuage a project of its tithe + overhead obligations, as described in the voting section of the bylaws.
+
+Grown Up Pants fund contributions cannot be avoided, since they are associated with an external liability.
 
 For example: Plorthank, the newest Corporate Overlord, has secured a $100,000 grant for a bad idea involving holograms.  $2,000 (2%) of that grant will be retained by the BIFFUD corporation and placed into their General Operating fund, $400 (0.4%) of that grant will be set aside to pay for local taxes, and $97,600 (97.6%) of the grant will be allocated to the hologram project.
 
-### Allocating Profits
-Profits are calculated at the end of the fiscal year (December 31st).  If by
-some miracle there are profits on a given year, the following formula will dictate their distribution:
+### Distributing Project Money
+After the BIFFUD Tithe, operating tax, and voluntary BIF contributions are accounted for within a project, whatever remains is the property of the project owners and is called the "Project Coffers".  Comptrollers (empowered by their respective project owners) determine the appropriations of the funds associated with their Project Coffers.
 
-1. A mandatory distribution of profit will be made to offset individual
-taxes on that profit.  Corporate Overlords may vote to prevent this distribution, as described in Section 5.  Whatever is left shall be called
-the Spoils of War.
+Some percentage of the funds inside Project Coffers will likely be used for project expense.  This might mean paying Associates who have helped build the project, or paying for important project assets such as amplified fog horns or skywriting-based-advertising.  Expenses and payments must be approved by the project comptroller.
 
-2. 80% of the Spoils of War will be distributed to the projects in proportion
-to the project-level profit contribution.  For example, if a project earned
-70% of BIFFUD's total profit, that Project would be allocated 70% of the 80% of
-the Spoils of War.
+Some percentage of the Project Coffers may be distributed to Project Owners.  This might mean paying project owners a flat rate, a percentage of gross income, or an arbitrary amount determined by those owners.  Anything is appropriate so long as it does not result in a net liability for the project.
 
-If a project has a profit allocation and the project had been allocated a "loan" from BIFFUD, that project's allocated profit is subtracted from the outstanding balance.
+All distributions from Project Coffers should be associated with documentation (e.g. a contract or written agreement) approved by the project Comptroller and registered with the BIFFUD Operating Branch.
 
-The project owners are paid in proportion to their project ownership
-percentage.
+All distributions from Project Coffers must be associated with an invoice approved by the project Comptroller and also registered with the BIFFUD Operating Branch.
 
-3. The remaining 20% of the Spoils of War shall be added to the company coffers.
-
-### Distributing Capital
-
-Corporate Overlords may vote at any time to distribute unallocated capital in proportion of their prorated ownership percentage.  For example, if a Corporate Overlord is only part of the Hive Mind for half of one year, then their prorated ownership percentage would be half that of a full-term Corporate Overlord's ownership percentage.
-
-Comptrollers can choose to pay Corporate Overlords as part of their project; payment from projects takes the form of a "guaranteed payment" and is functionally the same as contracted compensation.  It should be associated with a compensation contract.
+Project Coffers cannot be overspent.  Any net liability associated with a project is the explicit responsibility of the project owners.
 
 ### Project Compensation and Contracts
-Any compensation paid to individuals working on a project must be associated with a contract that has been approved by the comptroller of that project, and signed by the Overmind.
+Any compensation paid to individuals working on a project must be associated with a contract that has been approved by the comptroller of that project, and approved by the Overmind, and registered with the BIFFUD Operating Branch.
+
+### Interproject Fund Transfers
+A project Comptroller can opt to transfer Project Coffer funds into another Project Coffer.  This does not count as gross income for the receiving project for the purposes of Tithe, Overhead, and Grown up Pants.
+
+Interproject transfers must be communicated to the BIFFUD Operating Branch using whatever process is in vogue at the time.
+
+### Paying Back BIFFUD
+If a project that had been allocated money from BIFFUD has any gross income, that project's coffers (not including the original allocation) shall be instantly deducted until the original allocation is offset in full.  In other words, project owners should pay back BIFFUD before paying themselves.
+
+BIF Tithe and BIF Tax amounts do not count towards paying back BIFFUD.
+
+### Interproject Loans
+An interproject fund transfer can be specified as a loan.  This would result in similar processes to the one described in "Paying Back BIFFUD."  All loans are to be paid back in the order they were received.
+
+In other words, BIFFUD gets paid back first, then projects get paid back in the order that loans were made.
+
+### Corporate Coffers and Spoils of War
+"Corporate Coffers" represent all undistributed corporate capital.
+
+At the end of a fiscal year the net of all income and expense that is not associated with projects with owners (e.g. non-corporate projects) combined with all Tithe, Overhead, Grown up Pants, and Voluntary Contributions shall be added to the Corporate Coffers.
+
+The net change to the Corporate Coffers (aka the profit or loss) in a given year shall be called "The Spoils of War" and shall be allocated to
+
+### Payment Cadence
+Everybody will be paid what they are due at whatever cadence is agreed upon between the relevant parties and also supported by processes agreed upon by the BIFFUD Operating Branch.
+
+### Targeted Allocations
+For Tax purposes, the following outlines explicitly how capital is to be allocated to Corporate Overlords in a given fiscal year with the following priority:
+
+1. Corporate overlords are allocated any portion of Project Coffers that has been associated to them as described in the "Distributing Project Money" section.
+
+2. Corporate overlords are allocated any portion of the Spoils of War according to their pro-rated ownership percentage for that year.
+
+Put another way, Corporate Overlords are (1) entitled to a portion of relevant Project Coffers according to whatever has been determined within those projects' governance structures and then also (2) entitled to a percentage of corporate profit according to their pro-rated ownership percentage.
+
+Project Owners who are not Corporate Overlords are still liable (from tax purposes) for whatever portions of Project Coffers that they are entitled to.
+
+### Distributing Corporate Capital
+A mandatory distribution will be made by May 31st to offset individual taxes owed by Corporate Overlords as a result of The Spoils of War.  Corporate Overlords may vote to prevent this distribution, as described in Section 5.  Corporate overlords must invoice BIFFUD with proof of their tax liability in order to be eligable for the reimbursement.
+
+Corporate Overlords may vote at any time to distribute capital from Corporate Coffers in the Corporate Coffers in proportion of their net corporate capital positions.
 
 ### Project Resources
-Project comptrollers have wide control over how the money associated with their projects can be spent.  It is their responsibility to communicate approved expenses to the Treasure Goblin so that those expenses can be paid.
+Project comptrollers have wide control over how the money associated with their projects can be spent, though they cannot spend more than the cash balance of their Project Coffers.  It is their responsibility to communicate approved expenses to the Treasure Goblin so that those expenses can be paid.
 
 Licenses and assets obtained through a given project are property of the company, but the project owner shall be guaranteed as much use of it as needed (so long as project funds were used to pay for it). Comptrollers are urged to try to find assets that can be used by all BIFFUD projects.
 
-For example: if a comptroller purchased a web font to be rendered 50,000 times in total, that font should not be used in another BIFFUD project without explicit permission from the funding comptroller.  On the other hand if a license was purchased for a reusable asset (e.g. a license to premium emoji) those assets could be used by any project.
+For example: if a Comptroller purchased a web font to be rendered 50,000 times in total, that font should not be used in another BIFFUD project without explicit permission from the funding Comptroller.  On the other hand if a license was purchased for a reusable asset (e.g. a license to premium emoji) those assets could be used by any project.
 
 Comptrollers may choose to use their budget to pay for additional seats on existing corporate systems (e.g. email, password management, etc.)
 
