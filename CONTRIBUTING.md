@@ -4,7 +4,7 @@ This document contains information of use to partners looking to
 improve the BIFFUD's corporate documentation.  See [README.md](README.md)
 for a sense of the purpose of this repository.
 
-You should also look at the [Corporate Bylaws](documents/OPERATING.md)
+You should also look at the [Corporate Bylaws](documents/operating.md)
 which lays out some of the processes around the repository.
 
 ## Baseline Concepts
