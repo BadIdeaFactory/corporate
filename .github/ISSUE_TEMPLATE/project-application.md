@@ -5,10 +5,11 @@ about: Propose a new BIFFUD project
 ---
 
 # I HEREBY INVOKE MY RIGHTS...
-As described in section 11.11.B of the BIFFUD Corporate Bylaws I hereby invoke
-my rights as a sentient being who has not uploaded their mind to the cloud for consideration of this project application by the BIFFUD Hive Mind.  With this
-application I submit my interest in becoming a Member of BIFFUD and having this
-project supported and adored by all who can 🤔.
+As described in section 11.11.B of the BIFFUD [Corporate Bylaws] I hereby
+invoke my rights as a sentient being who has not uploaded their mind to the
+cloud for consideration of this project application by the BIFFUD Hive Mind.
+With this application I submit my interest in becoming a Member of BIFFUD and
+having this project supported and adored by all who can 🤔.
 
 ## Project Information
 - Project Name: [Project Name]
@@ -60,3 +61,5 @@ with the project.  Must also be listed in previous section.]
 ### How (often) will you be providing updates to the organization?
 [Ideas are great, action is better!  How often should we expect you
 to be able to make progress? How would you like to report back]
+
+[Corporate Bylaws]: https://github.com/BadIdeaFactory/corporate/blob/master/documents/operating.md
