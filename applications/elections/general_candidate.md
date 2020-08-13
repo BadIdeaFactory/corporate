@@ -6,7 +6,7 @@
 - [ ] Treasure Goblin
 - [ ] Keeper of Lore
 - [ ] Secretary of Code
-- [ ] Beastmaster
+- [ ] Chaos Wrangler
 - [ ] The Popular One
 
 ## Why are you qualified?

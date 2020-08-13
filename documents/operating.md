@@ -22,7 +22,7 @@ SECTION 0: 📓📓📓 Definitions 📓📓📓
 * The "**Hive Mind**" shall mean the "board of directors" of the Company, as defined by Pennsylvania state law. The Hive Mind shall consist of all current Corporate Overlords of the Company.
 * "**Plotting Session**" shall mean a "meeting of the board of directors" of the Company, as defined by Pennsylvania state law.
 * "**Quorum**" shall mean the presence of at least 1/2 + 1 of the company's Corporate Overlords.
-* "**Chain of Command**" shall refer to the following order: Overmind, Undermind, Keeper of Lore, Treasure Goblin, Beastmaster, The Popular One, Secretary of Code.
+* "**Chain of Command**" shall refer to the following order: Overmind, Undermind, Keeper of Lore, Treasure Goblin, Chaos Wrangler, The Popular One, Secretary of Code.
 * "**Operating Agreement**" shall refer to the official version of this document to be held in a file named `operating.md` in the `documents` directory of the `master` branch of the `corporate` repository within the `BadIdeaFactory` team hosted on GitHub. (As of July 2017, the described version of the file may be located at: https://github.com/BadIdeaFactory/corporate/blob/master/documents/operating.md)
 
 ### Support Categories
@@ -123,7 +123,7 @@ A Corporate Overlord exits hibernation immediately by attending a plotting sessi
 Anybody with ownership over a BIFFUD Project is considered a BIFFUD Member.  Members must sign the Membership Contract found in `/documents/member_agreement.md`.
 
 ### Removing Members
-Members may be removed from the organization by the Beastmaster when they are no longer associated with any BIFFUD projects.
+Members may be removed from the organization by the Chaos Wrangler when they are no longer associated with any BIFFUD projects.
 
 ### Adding Accomplices
 Anybody with an accepted Pull Request in a BIFFUD project is automatically considered an Accomplice.  Before a Pull Request can be approved, the contributor must submit a signed Contributor License Agreement found in `/documents/accomplice_agreement.md`.
@@ -131,7 +131,7 @@ Anybody with an accepted Pull Request in a BIFFUD project is automatically consi
 Project owners can also indicate who their accomplices are, even if they don't open pull requests (there are many ways to contribute to a project that doesn't involve code).
 
 ### Removing Accomplices
-Accomplices can be removed by the beastmaster if it decides that is what is best.
+Accomplices can be removed by the Chaos Wrangler if it decides that is what is best.
 
 ### Corporate Overlord Responsibilities
 Bad Idea Factory is a Limited Liability Corporation, which means that partnership can't _just_ be about the spirit or the lulz -- partners have legal responsibilities, ownership, and control over the Company direction.
@@ -166,7 +166,7 @@ In addition to base expectations, the following positions are to be held by Corp
 
 - **Secretary of Code:** Ensures that corporate defined commit protocols are followed in all BIFFUD projects, as well as `corporate`.
 
-- **Beastmaster:** Makes certain decisions related to BIFFUD projects and ensures that the Corporate Overlords are aware of the progress and activity of BIFFUD projects.
+- **Chaos Wrangler:** Makes certain decisions related to BIFFUD projects and ensures that the Corporate Overlords are aware of the progress and activity of BIFFUD projects.
 
 - **The Popular One:** Handles public communication.  Runs BIFFUD social media accounts with input from other interested Corporate Overlords.
 
@@ -188,7 +188,7 @@ All "**Owners**"" of a project must be Members, and the percentages and specific
 
 The Ownership Contract must specify participation expectations and ownership percentages, as well as guidelines for how potential profits should be distributed.
 
-Changes to project ownership must be communicated to The Beastmaster.
+Changes to project ownership must be communicated to The Chaos Wrangler.
 
 ### Project Resources
 Resources required to complete or support a project can come from several different sources:
@@ -204,7 +204,7 @@ Resources required to complete or support a project can come from several differ
 5. **Raw Capitalism.** Apparently people think it's a good idea to hire a company called Bad Idea Factory. We're as surprised as you. Projects that bring in revenue in return for services are bound by the same rules as other projects in terms of how their money can be allocated.
 
 ### Disputes Between Project Owners
-If project owners disagree, the Beastmaster will attempt to address the disagreement. If the Beastmaster fails to create harmony, the Beastmaster proposes a solution and if either the Undermind or Overmind approve it, the Owners in conflict must either accept that solution or mutually agree on an alternative.
+If project owners disagree, the Chaos Wrangler will attempt to address the disagreement. If the Chaos Wrangler fails to create harmony, the Chaos Wrangler proposes a solution and if either the Undermind or Overmind approve it, the Owners in conflict must either accept that solution or mutually agree on an alternative.
 
 ### Retiring a BIFFUD Project
 All BIFFUD projects, regardless of how they are resourced and supported, must be maintained and owned by at least one Member.  If a project no longer has a Member interested in owning it or if The Hive decides that the project should be removed from The Company, a motion may be passed to change the status to retired.
@@ -252,9 +252,9 @@ The following numbered clauses apply to all BIFFUD projects unless explicitly ap
 
 2. All BIFFUD projects must have the language written in `documents/federated_contributing.md` inserted into a CONTRIBUTING.md file at the root level of the project unless explicitly approved otherwise by the Corporate Overlords during project approval or at a later date during a Plotting Session.
 
-3. Copyright and patent rights for all potential code or other creative works with a BIFFUD project must be granted to BIFFUD before it can be incorporated into a project, unless the Beastmaster gives their approval.
+3. Copyright and patent rights for all potential code or other creative works with a BIFFUD project must be granted to BIFFUD before it can be incorporated into a project, unless the Chaos Wrangler gives their approval.
 
-The Hive Mind has the ability to transfer Intellectual Property between BIFFUD and any external source (with approval of project owners) through approval of the Overmind, Undermind, and Beastmaster.  The Keeper of Lore is responsible for ensuring that documentation regarding the transfer is appropriately cataloged in `corporate`
+The Hive Mind has the ability to transfer Intellectual Property between BIFFUD and any external source (with approval of project owners) through approval of the Overmind, Undermind, and Chaos Wrangler.  The Keeper of Lore is responsible for ensuring that documentation regarding the transfer is appropriately cataloged in `corporate`
 
 ---------------------------------------------------------------------
 SECTION 4: 💵💵💵 MONEY 💵💵💵
@@ -277,7 +277,7 @@ with any expectation of ownership of BIFFUD.
 
 ### Project Resources
 The Hive Mind is responsible for allocating financial support to Projects.
-Project owners must select a single person to be the project's "Comptroller" who is responsible for approving any invoices associated with a project and working with the Beastmaster and Treasure Goblin to receive access to centralized services or financial reimbursement, depending on the nature of the allocation.
+Project owners must select a single person to be the project's "Comptroller" who is responsible for approving any invoices associated with a project and working with the Chaos Wrangler and Treasure Goblin to receive access to centralized services or financial reimbursement, depending on the nature of the allocation.
 
 Invoices that are not approved by a project's Comptroller will not be compensated unless they are explicitly approved by the Treasure Goblin.
 
@@ -450,13 +450,13 @@ The following decisions will require a formal input from the Hive Mind.
 
 The GitHub processes for each decision are outlined in CONTRIBUTING.md and those processes should be followed.
 
-- **Adding projects (Preliminary):** GitHub (needs Apathetic Support). This type of request is made by anybody who wants to submit their project or idea to BIFFUD for approval to become an official BIFFUD project. Upon preliminary approval the code base is incorporated into the BIFFUD repository and the Beastmaster provides the project owners with a biffud.com subdomain.
+- **Adding projects (Preliminary):** GitHub (needs Apathetic Support). This type of request is made by anybody who wants to submit their project or idea to BIFFUD for approval to become an official BIFFUD project. Upon preliminary approval the code base is incorporated into the BIFFUD repository and the Chaos Wrangler provides the project owners with a biffud.com subdomain.
 
-- **Adding projects:** Plotting Session (needs Strong Consensus). If the vote passes, the steps outlined in the preliminary vote description are invoked.  The listed owners of the project are made Members and onboarded by the Beastmaster.  The project budget is given to the Treasure Goblin for categorization.  The Beastmaster also now has permission to give access to any approved resources as required by the project.
+- **Adding projects:** Plotting Session (needs Strong Consensus). If the vote passes, the steps outlined in the preliminary vote description are invoked.  The listed owners of the project are made Members and onboarded by the Chaos Wrangler.  The project budget is given to the Treasure Goblin for categorization.  The Chaos Wrangler also now has permission to give access to any approved resources as required by the project.
 
 - **Updating projects (Preliminary):** GitHub (needs Apathetic Support). This type of request is made by Owners of a project who want to update their project's application file after it has been approved.
 
-- **Updating projects:** GitHub (with no money changes; needs Beastmaster Approval) or Plotting Session (needs Strong Consensus).  Any change that will require additional BIFFUD resources cannot be approved by the Beastmaster; it requires Strong Consensus during a Plotting Session.
+- **Updating projects:** GitHub (with no money changes; needs Chaos Wrangler Approval) or Plotting Session (needs Strong Consensus).  Any change that will require additional BIFFUD resources cannot be approved by the Chaos Wrangler; it requires Strong Consensus during a Plotting Session.
 
 - **Removing projects:** Plotting Session (needs Strong Consensus). If a project has been voted for removal from BIFFUD, the project must be removed from BIFFUD servers and team repository.  The transfer plan and timeline should be specified as part of the vote.  If it is not, the timeline is one month and the intent is to transfer related code and data to project owners.
 
@@ -499,7 +499,7 @@ Here's a summary table:
 | + project (plm.)  | Apathetic Support  | GitHub       |
 | + project         | Strong Consensus   | Plotting Ssn |
 | ~ project (plm.)  | Apathetic Support  | GitHub       |
-| ~ project (no $)  | BeastMaster        | GitHub       |
+| ~ project (no $)  | Chaos Wrangler        | GitHub       |
 | ~ project         | Strong Consensus   | Plotting Ssn |
 | - project         | Strong Consensus   | Plotting Ssn |
 | + overlord        | Strong Consensus   | Plotting Ssn |
