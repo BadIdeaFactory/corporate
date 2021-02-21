@@ -46,7 +46,7 @@ BIFFUD shall be dissolved as a Limited Liability Company if any of the following
 If a Corporate Overlord leaves BIFFUD, dies, or uploads their brain to the cloud, the ownership of the remaining Corporate Overlords will then be evenly distributed (e.g., if four Corporate Overlords remain, each will own 1/4 of BIFFUD).
 
 ### Lawsuits Between BIFFUD Associates
-All BIFFUD Associates involved in a lawsuit must play a group game of Mario Party 3 before any arbitration happens.  BIFFUD must loan any necessary hardware needed to make this possible.  Efforts must be made to obtain a Nintendo 64 for this endeavor, however, if obtaining such hardware would cause unreasonable burden, emulation is acceptable so long as a legal license for Mario Party 3 is first obtained by the Company.
+All BIFFUD Associates involved in a lawsuit must play a group game of Mario Party 3 before any arbitration happens.  BIFFUD must lend any necessary hardware needed to make this possible.  Efforts must be made to obtain a Nintendo 64 for this endeavor, however, if obtaining such hardware would cause unreasonable burden, emulation is acceptable so long as a legal license for Mario Party 3 is first obtained by the Company.
 
 If more than four Associates are involved in a lawsuit, a Mario Party 3 elimination tournament must be played.  The terms of the tournament shall be dictated by a neutral third party.
 
