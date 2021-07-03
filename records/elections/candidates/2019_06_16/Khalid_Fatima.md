@@ -8,7 +8,7 @@ Fatima Khalid
 - [ ] Treasure Goblin  
 - [ ] Keeper of Lore  
 - [ ] Secretary of Code  
-- [x] Beastmaster  
+- [x] Chaos Wrangler  
 - [ ] The Popular One
 
 ## Why are you qualified?

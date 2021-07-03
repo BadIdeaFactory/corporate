@@ -64,7 +64,7 @@ by the Treasure Goblin.
 - lore: this branch is for tracking documentation and minutes.  It is managed
 by the Keeper of Lore.
 - projects: this branch is for keeping track of projects and relevant
-documents or agreements.  It is managed by the Beastmaster.
+documents or agreements.  It is managed by the Chaos Wrangler.
 - popularity: this branch is for keeping track of communications and marketing
 materials such as emoji, logos, and catch phrases.  It is managed by The
 Popular One.
@@ -198,5 +198,5 @@ Use the [Tome of Knowledge: Overmind](https://github.com/BadIdeaFactory/corporat
 ## How do I (Keeper of Lore)...
 Use the [Tome of Knowledge: Keeper of Lore](https://github.com/BadIdeaFactory/corporate/wiki/Tome-of-Knowledge:-Keeper-of-Lore)
 
-## How do I (Beastmaster)...
-Use the [Tome of Knowledge: Beastmaster](https://github.com/BadIdeaFactory/corporate/wiki/Tome-of-Knowledge:-Beastmaster)
+## How do I (Chaos Wrangler)...
+Use the [Tome of Knowledge: Chaos Wrangler](https://github.com/BadIdeaFactory/corporate/wiki/Tome-of-Knowledge:-Chaos Wrangler)
