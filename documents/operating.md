@@ -17,7 +17,9 @@ SECTION 0: 📓📓📓 Definitions 📓📓📓
 
 * **Bad Idea Factory Limited Liability Company ("Company")** is a Limited Liability Company domiciled in Pennsylvania.
 * Company may also be referred to as "**Bad Idea Factory**" or "**BIFFUD**".
-* "**Corporate Overlord**" shall mean an "owner" of the Company under Pennsylvania state law.
+* "**Corporate Overlord With Status (COWS)**" shall mean an "owner" of the Company under Pennsylvania state law.
+* "**Corporate Overlord In Nominality and Spirit (COINS)**" shall mean a person who is not technically a legal owner of the Company, but the COWS opt to give internal rights to (e.g. profit sharing, voting).
+* "**Corporate Overlord**" shall mean anybody who is either COWS or COINS.
 * "**Associate**" shall mean any person legally associated with the Company through contract or ownership.
 * The "**Hive Mind**" shall mean the "board of directors" of the Company, as defined by Pennsylvania state law. The Hive Mind shall consist of all current Corporate Overlords of the Company.
 * "**Plotting Session**" shall mean a "meeting of the board of directors" of the Company, as defined by Pennsylvania state law.
@@ -41,6 +43,7 @@ BIFFUD shall be dissolved as a Limited Liability Company if any of the following
 2. The Hive Mind fails to hold a single meeting with quorum for a period of one consecutive year.
 3. Everyone dies/there are no more Corporate Overlords.
 4. If all Corporate Overlords identify as cis-hetero white men.
+5. There are now COWS left in the ranks of the Corporate Overlords.
 
 ### Continuance of Company
 If a Corporate Overlord leaves BIFFUD, dies, or uploads their brain to the cloud, the ownership of the remaining Corporate Overlords will then be evenly distributed (e.g., if four Corporate Overlords remain, each will own 1/4 of BIFFUD).
@@ -516,6 +519,17 @@ Here's a summary table:
 | ~ corporate       | Majority           | GitHub       |
 | + minutes         | Apathetic Support  | GitHub       |
 
+### Remote Voting
+Calls to vote made during a plotting session can be voted on remotely by Corporate Overlords.  This is because time is not linear, it is only perceived linearly, therefore all moments of time are actually identical.
+
+Only Corporate Overlords with an active (non hibernating) status at the time of the initial plotting session are able to vote, and the totals needed for a given vote are based on the active corporate overlords at that time.
+
+The vote shall remain open until at least one of the following conditions holds:
+
+1. Enough votes are cast as to reach a verdict.
+2. The sitting Overmind determines that the vote should be closed.
+
+The remote voting mechanism shall be determined by the Overmind.
 
 ### Elections
 Elected terms end on April 1st and Elections for those seats are held during the Plotting Session held in March. Candidates must submit their application for a position 24 hours before the Plotting Session is scheduled to begin, using the process outlined in CONTRIBUTING.md.
