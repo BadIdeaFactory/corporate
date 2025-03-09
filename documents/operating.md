@@ -109,6 +109,10 @@ Corporate Overlords may also vote to remove a peer from the organization if any 
 
 The removal of a corporate overlord can be nominated during a plotting session and the vote must pass as defined in Section 5.
 
+### Revenge of the Corporate Overlords
+
+A former Corporate Overlord who previously left BIFFUD through one of the *voluntary* methods described under "**Removing Corporate Overlords**" (as opposed to removal via a vote of Corporate Overlords, or removal via breach of other rules in this Operating Agreement), may return to the company anew only via the full ritual described in "**Adding Corporate Overlords**."
+
 ### Hibernating Corporate Overlords
 A Corporate Overlord can go into hibernation.  Hibernation does not remove their ownership of BIFFUD or their entitlement to profit share, but their role as a voting member of the Hive is temporarily revoked until they attend a plotting session.
 
@@ -272,6 +276,10 @@ as described in Section 5. Contribution increases are retroactive and Corporate
 Overlords have three months to cough up the extra dough.
 
 Failure to contribute in a timely manner shall result in revocation of Corporate Overlord status.
+
+A former Corporate Overlord, returning to BIFFUD as described in Section 2 ->
+"**Revenge of the Corporate Overlords**," may have the capital contribution
+requirement waived via a vote of the Hive Mind.
 
 ### Third Party Contributions
 Third parties can give money to BIFFUD as a non-deductible donation or grant.
