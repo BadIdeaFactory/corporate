@@ -1,8 +1,8 @@
-## Beastmaster
+## Chaos Wrangler
 
-**The Beastmaster** is all about helping unlock the potential of our projects. This means helping them start, keep moving, share their stories, obtain resources, and contribute back to BIFFUD.
+**The Chaos Wrangler** is all about helping unlock the potential of our projects. This means helping them start, keep moving, share their stories, obtain resources, and contribute back to BIFFUD.
 
-### Example Beastmaster visions:
+### Example Chaos Wrangler visions:
 
 1. Method for keeping track of what projects need.
 2. Establishing systems for projects to obtain additional resources needed for their operation.
@@ -16,7 +16,7 @@
 
 ... and thinking of more things for this list
 
-### Example Beastmaster tasks:
+### Example Chaos Wrangler tasks:
 
 * Keeping in touch with projects and making project owners feel appropriately loved and cared about.
 * Keeping morale up across projects!
